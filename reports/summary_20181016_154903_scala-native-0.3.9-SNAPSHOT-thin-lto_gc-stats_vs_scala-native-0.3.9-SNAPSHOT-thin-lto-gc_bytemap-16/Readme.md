@@ -19,7 +19,7 @@
 |[mandelbrot.MandelbrotBenchmark](#mandelbrotmandelbrotbenchmark)|90.8127|90.4569|__-0.39%__|
 |[nbody.NbodyBenchmark](#nbodynbodybenchmark)|29.1364|28.7214|__-1.42%__|
 |[sudoku.SudokuBenchmark](#sudokusudokubenchmark)|2.5772|2.5240|__-2.07%__|
-| __Geometrical mean:__|| |__-21.82%__|
+| __Geometrical mean:__|| |__-3.23%__|
 ## GC time (ms) at 50 percentile 
 ![Chart](relative_gc_percentile_50.png)
 
@@ -90,7 +90,7 @@
 |[mandelbrot.MandelbrotBenchmark](#mandelbrotmandelbrotbenchmark)|92.0342|91.7620|__-0.30%__|
 |[nbody.NbodyBenchmark](#nbodynbodybenchmark)|29.7822|29.2637|__-1.74%__|
 |[sudoku.SudokuBenchmark](#sudokusudokubenchmark)|2.7898|2.7628|__-0.97%__|
-| __Geometrical mean:__|| |__-27.12%__|
+| __Geometrical mean:__|| |__-4.13%__|
 ## GC time (ms) at 90 percentile 
 ![Chart](relative_gc_percentile_90.png)
 
@@ -161,7 +161,7 @@
 |[mandelbrot.MandelbrotBenchmark](#mandelbrotmandelbrotbenchmark)|99.9049|98.6615|__-1.24%__|
 |[nbody.NbodyBenchmark](#nbodynbodybenchmark)|31.8774|30.8290|__-3.29%__|
 |[sudoku.SudokuBenchmark](#sudokusudokubenchmark)|3.0161|2.8807|__-4.49%__|
-| __Geometrical mean:__|| |__-39.81%__|
+| __Geometrical mean:__|| |__-6.54%__|
 ## GC time (ms) at 99 percentile 
 ![Chart](relative_gc_percentile_99.png)
 
