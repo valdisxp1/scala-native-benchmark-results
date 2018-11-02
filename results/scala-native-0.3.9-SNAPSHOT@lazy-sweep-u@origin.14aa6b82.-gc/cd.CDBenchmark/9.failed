@@ -1,0 +1,19 @@
+Out of heap space
+	at _SM15cd.RedBlackTreeD10treeInsertL20java.lang.ComparableL16java.lang.ObjectL28cd.RedBlackTree$InsertResultE
+	at _SM15cd.RedBlackTreeD3putL20java.lang.ComparableL16java.lang.ObjectL16java.lang.ObjectE
+	at _SM21cd.CollisionDetector$D10putIntoMapL15cd.RedBlackTreeL11cd.Vector2DL9cd.MotionuE
+	at _SM21cd.CollisionDetector$D7recurseL15cd.RedBlackTreeL15cd.RedBlackTreeL11cd.Vector2DL9cd.MotionuE
+	at _SM50cd.CollisionDetector$$anonfun$reduceCollisionSet$1D5applyL16java.lang.ObjectL16java.lang.ObjectE
+	at _SM10som.VectorD7forEachL15scala.Function1uE
+	at _SM21cd.CollisionDetector$D18reduceCollisionSetL10som.VectorL10som.VectorE
+	at _SM20cd.CollisionDetectorD14handleNewFrameL10som.VectorL10som.VectorE
+	at _SM29cd.CDBenchmark$$anonfun$run$1D5applyL16java.lang.ObjectL16java.lang.ObjectE
+	at _SM47scala.collection.TraversableLike$$anonfun$map$1D5applyL16java.lang.ObjectL16java.lang.ObjectE
+	at _SM32scala.collection.immutable.RangeD7foreachL15scala.Function1uE
+	at _SM38scala.collection.TraversableLike$classD3mapL32scala.collection.TraversableLikeL15scala.Function1L37scala.collection.generic.CanBuildFromL16java.lang.ObjectE
+	at _SM15cd.CDBenchmark$D3runL16java.lang.StringiE
+	at _SM24communitybench.BenchmarkD4loopiiL16java.lang.StringL16java.lang.StringLAj_E
+	at _SM24communitybench.BenchmarkD4mainLAL16java.lang.String_uE
+	at main
+	at __libc_start_main
+	at _start

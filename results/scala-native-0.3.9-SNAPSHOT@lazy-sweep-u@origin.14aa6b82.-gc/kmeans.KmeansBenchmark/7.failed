@@ -1,0 +1,12 @@
+Out of heap space
+	at _SM45scala.collection.mutable.ResizableArray$classD10ensureSizeL39scala.collection.mutable.ResizableArrayiuE
+	at _SM36scala.collection.mutable.ArrayBufferD2+=L16java.lang.ObjectL36scala.collection.mutable.ArrayBufferE
+	at _SM45scala.collection.mutable.ResizableArray$classD7foreachL39scala.collection.mutable.ResizableArrayL15scala.Function1uE
+	at _SM38scala.collection.TraversableLike$classD7groupByL32scala.collection.TraversableLikeL15scala.Function1L30scala.collection.immutable.MapE
+	at _SM23kmeans.KmeansBenchmark$D8classifyL23scala.collection.GenSeqL23scala.collection.GenSeqL23scala.collection.GenMapE
+	at _SM23kmeans.KmeansBenchmark$D3runL16java.lang.StringzE
+	at _SM24communitybench.BenchmarkD4loopiiL16java.lang.StringL16java.lang.StringLAj_E
+	at _SM24communitybench.BenchmarkD4mainLAL16java.lang.String_uE
+	at main
+	at __libc_start_main
+	at _start
