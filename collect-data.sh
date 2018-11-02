@@ -3,3 +3,4 @@
 cd $(dirname "$0")
 
 cp -r ../scala-native-benchmarks/results .
+./just-upload.sh
