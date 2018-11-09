@@ -1,0 +1,16 @@
+Java HotSpot(TM) 64-Bit Server VM (25.171-b11) for linux-amd64 JRE (1.8.0_171-b11), built on Mar 28 2018 17:07:08 by "java_re" with gcc 4.3.0 20080428 (Red Hat 4.3.0-8)
+Memory: 4k page, physical 32883000k(29442164k free), swap 8000508k(8000508k free)
+CommandLine flags: -XX:InitialHeapSize=1073741824 -XX:MaxHeapSize=1073741824 -XX:+PrintGC -XX:+PrintGCApplicationStoppedTime -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseParallelGC 
+0.186: Total time for which application threads were stopped: 0.0001016 seconds, Stopping threads took: 0.0000131 seconds
+0.790: [GC (Allocation Failure)  262144K->2694K(1005056K), 0.0018639 secs]
+0.792: Total time for which application threads were stopped: 0.0020469 seconds, Stopping threads took: 0.0000170 seconds
+1.293: [GC (Allocation Failure)  264838K->658K(1005056K), 0.0007769 secs]
+1.294: Total time for which application threads were stopped: 0.0008863 seconds, Stopping threads took: 0.0000178 seconds
+1.802: [GC (Allocation Failure)  262802K->584K(1005056K), 0.0007626 secs]
+1.803: Total time for which application threads were stopped: 0.0008757 seconds, Stopping threads took: 0.0000192 seconds
+2.313: [GC (Allocation Failure)  262728K->680K(1005056K), 0.0007792 secs]
+2.313: Total time for which application threads were stopped: 0.0009007 seconds, Stopping threads took: 0.0000195 seconds
+2.825: [GC (Allocation Failure)  262824K->680K(1005056K), 0.0008311 secs]
+2.826: Total time for which application threads were stopped: 0.0009270 seconds, Stopping threads took: 0.0000176 seconds
+3.338: [GC (Allocation Failure)  262824K->680K(1046016K), 0.0009461 secs]
+3.339: Total time for which application threads were stopped: 0.0010614 seconds, Stopping threads took: 0.0000201 seconds

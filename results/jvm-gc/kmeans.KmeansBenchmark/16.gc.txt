@@ -1,0 +1,1029 @@
+Java HotSpot(TM) 64-Bit Server VM (25.171-b11) for linux-amd64 JRE (1.8.0_171-b11), built on Mar 28 2018 17:07:08 by "java_re" with gcc 4.3.0 20080428 (Red Hat 4.3.0-8)
+Memory: 4k page, physical 32883000k(29614040k free), swap 8000508k(8000508k free)
+CommandLine flags: -XX:InitialHeapSize=526128000 -XX:MaxHeapSize=8418048000 -XX:+PrintGC -XX:+PrintGCApplicationStoppedTime -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseParallelGC 
+0.211: Total time for which application threads were stopped: 0.0001392 seconds, Stopping threads took: 0.0000293 seconds
+0.578: [GC (Allocation Failure)  129024K->7566K(493056K), 0.0042836 secs]
+0.583: Total time for which application threads were stopped: 0.0045285 seconds, Stopping threads took: 0.0000158 seconds
+0.856: [GC (Allocation Failure)  136590K->5014K(493056K), 0.0027085 secs]
+0.859: Total time for which application threads were stopped: 0.0028577 seconds, Stopping threads took: 0.0000165 seconds
+1.139: [GC (Allocation Failure)  134038K->5438K(493056K), 0.0030000 secs]
+1.142: Total time for which application threads were stopped: 0.0031537 seconds, Stopping threads took: 0.0000203 seconds
+1.414: [GC (Allocation Failure)  134462K->5294K(493056K), 0.0030786 secs]
+1.417: Total time for which application threads were stopped: 0.0032522 seconds, Stopping threads took: 0.0000270 seconds
+1.697: [GC (Allocation Failure)  134318K->2584K(471552K), 0.0016560 secs]
+1.699: Total time for which application threads were stopped: 0.0017941 seconds, Stopping threads took: 0.0000175 seconds
+1.970: [GC (Allocation Failure)  128536K->5374K(471552K), 0.0034499 secs]
+1.974: Total time for which application threads were stopped: 0.0036312 seconds, Stopping threads took: 0.0000282 seconds
+2.241: [GC (Allocation Failure)  128254K->5248K(468480K), 0.0029630 secs]
+2.244: Total time for which application threads were stopped: 0.0031637 seconds, Stopping threads took: 0.0000186 seconds
+2.506: [GC (Allocation Failure)  125568K->5504K(465920K), 0.0029536 secs]
+2.509: Total time for which application threads were stopped: 0.0031218 seconds, Stopping threads took: 0.0000190 seconds
+2.763: [GC (Allocation Failure)  123264K->5584K(463360K), 0.0030484 secs]
+2.766: Total time for which application threads were stopped: 0.0032115 seconds, Stopping threads took: 0.0000189 seconds
+3.014: [GC (Allocation Failure)  120784K->5384K(460800K), 0.0026423 secs]
+3.017: Total time for which application threads were stopped: 0.0028004 seconds, Stopping threads took: 0.0000272 seconds
+3.256: [GC (Allocation Failure)  118024K->5504K(458240K), 0.0028387 secs]
+3.259: Total time for which application threads were stopped: 0.0030008 seconds, Stopping threads took: 0.0000192 seconds
+3.497: [GC (Allocation Failure)  115584K->4185K(454656K), 0.0015757 secs]
+3.498: Total time for which application threads were stopped: 0.0017284 seconds, Stopping threads took: 0.0000192 seconds
+3.734: [GC (Allocation Failure)  112217K->5152K(453632K), 0.0024484 secs]
+3.736: Total time for which application threads were stopped: 0.0026060 seconds, Stopping threads took: 0.0000187 seconds
+3.962: [GC (Allocation Failure)  111136K->3161K(449536K), 0.0013561 secs]
+3.964: Total time for which application threads were stopped: 0.0014835 seconds, Stopping threads took: 0.0000190 seconds
+4.056: Total time for which application threads were stopped: 0.0001243 seconds, Stopping threads took: 0.0000455 seconds
+4.175: [GC (Allocation Failure)  107097K->5280K(450048K), 0.0024170 secs]
+4.178: Total time for which application threads were stopped: 0.0025764 seconds, Stopping threads took: 0.0000191 seconds
+4.385: [GC (Allocation Failure)  107168K->4992K(447488K), 0.0022114 secs]
+4.387: Total time for which application threads were stopped: 0.0023850 seconds, Stopping threads took: 0.0000199 seconds
+4.589: [GC (Allocation Failure)  104832K->5216K(445440K), 0.0023819 secs]
+4.591: Total time for which application threads were stopped: 0.0025494 seconds, Stopping threads took: 0.0000282 seconds
+4.788: [GC (Allocation Failure)  103008K->5184K(451584K), 0.0028327 secs]
+4.791: Total time for which application threads were stopped: 0.0030741 seconds, Stopping threads took: 0.0000256 seconds
+5.002: [GC (Allocation Failure)  109120K->1657K(445952K), 0.0007031 secs]
+5.002: Total time for which application threads were stopped: 0.0008137 seconds, Stopping threads took: 0.0000185 seconds
+5.204: [GC (Allocation Failure)  103545K->4601K(447488K), 0.0018184 secs]
+5.206: Total time for which application threads were stopped: 0.0019623 seconds, Stopping threads took: 0.0000191 seconds
+5.408: [GC (Allocation Failure)  104441K->5088K(445440K), 0.0022281 secs]
+5.410: Total time for which application threads were stopped: 0.0023760 seconds, Stopping threads took: 0.0000189 seconds
+5.606: [GC (Allocation Failure)  102880K->5088K(443392K), 0.0022905 secs]
+5.609: Total time for which application threads were stopped: 0.0024469 seconds, Stopping threads took: 0.0000185 seconds
+5.803: [GC (Allocation Failure)  100832K->4249K(441344K), 0.0017879 secs]
+5.805: Total time for which application threads were stopped: 0.0019533 seconds, Stopping threads took: 0.0000187 seconds
+6.000: [GC (Allocation Failure)  98457K->1529K(441344K), 0.0007151 secs]
+6.001: Total time for which application threads were stopped: 0.0008271 seconds, Stopping threads took: 0.0000190 seconds
+6.186: [GC (Allocation Failure)  94201K->5264K(439296K), 0.0023844 secs]
+6.189: Total time for which application threads were stopped: 0.0025420 seconds, Stopping threads took: 0.0000269 seconds
+6.368: [GC (Allocation Failure)  96400K->5232K(437760K), 0.0024117 secs]
+6.370: Total time for which application threads were stopped: 0.0025504 seconds, Stopping threads took: 0.0000267 seconds
+6.555: [GC (Allocation Failure)  94832K->953K(431616K), 0.0007578 secs]
+6.556: Total time for which application threads were stopped: 0.0008716 seconds, Stopping threads took: 0.0000291 seconds
+6.735: [GC (Allocation Failure)  89017K->5312K(435200K), 0.0028512 secs]
+6.738: Total time for which application threads were stopped: 0.0030121 seconds, Stopping threads took: 0.0000190 seconds
+6.915: [GC (Allocation Failure)  91840K->5424K(436736K), 0.0027117 secs]
+6.918: Total time for which application threads were stopped: 0.0028681 seconds, Stopping threads took: 0.0000190 seconds
+7.095: [GC (Allocation Failure)  91952K->5056K(462848K), 0.0023324 secs]
+7.098: Total time for which application threads were stopped: 0.0024720 seconds, Stopping threads took: 0.0000191 seconds
+7.331: [GC (Allocation Failure)  117696K->2201K(455168K), 0.0009032 secs]
+7.332: Total time for which application threads were stopped: 0.0010173 seconds, Stopping threads took: 0.0000183 seconds
+7.556: [GC (Allocation Failure)  112281K->5088K(456192K), 0.0022876 secs]
+7.559: Total time for which application threads were stopped: 0.0024520 seconds, Stopping threads took: 0.0000253 seconds
+7.779: [GC (Allocation Failure)  113120K->4217K(452608K), 0.0018274 secs]
+7.781: Total time for which application threads were stopped: 0.0020211 seconds, Stopping threads took: 0.0000234 seconds
+7.995: [GC (Allocation Failure)  110201K->5600K(452608K), 0.0029710 secs]
+7.998: Total time for which application threads were stopped: 0.0031334 seconds, Stopping threads took: 0.0000192 seconds
+8.215: [GC (Allocation Failure)  109536K->5536K(454144K), 0.0026489 secs]
+8.218: Total time for which application threads were stopped: 0.0028166 seconds, Stopping threads took: 0.0000266 seconds
+8.427: [GC (Allocation Failure)  109472K->4601K(449024K), 0.0019179 secs]
+8.429: Total time for which application threads were stopped: 0.0020905 seconds, Stopping threads took: 0.0000190 seconds
+8.635: [GC (Allocation Failure)  106489K->5296K(475648K), 0.0026246 secs]
+8.637: Total time for which application threads were stopped: 0.0028034 seconds, Stopping threads took: 0.0000264 seconds
+8.899: [GC (Allocation Failure)  132784K->5552K(476672K), 0.0029570 secs]
+8.902: Total time for which application threads were stopped: 0.0031296 seconds, Stopping threads took: 0.0000273 seconds
+9.153: [GC (Allocation Failure)  132528K->5296K(472064K), 0.0024756 secs]
+9.155: Total time for which application threads were stopped: 0.0026737 seconds, Stopping threads took: 0.0000281 seconds
+9.405: [GC (Allocation Failure)  129200K->5264K(469504K), 0.0023723 secs]
+9.408: Total time for which application threads were stopped: 0.0025452 seconds, Stopping threads took: 0.0000234 seconds
+9.652: [GC (Allocation Failure)  126608K->5584K(466944K), 0.0028101 secs]
+9.655: Total time for which application threads were stopped: 0.0029828 seconds, Stopping threads took: 0.0000281 seconds
+9.894: [GC (Allocation Failure)  124368K->1593K(460800K), 0.0007987 secs]
+9.894: Total time for which application threads were stopped: 0.0009122 seconds, Stopping threads took: 0.0000189 seconds
+10.132: [GC (Allocation Failure)  117817K->5600K(461824K), 0.0026502 secs]
+10.135: Total time for which application threads were stopped: 0.0028111 seconds, Stopping threads took: 0.0000193 seconds
+10.362: [GC (Allocation Failure)  119264K->5280K(459264K), 0.0023991 secs]
+10.364: Total time for which application threads were stopped: 0.0025608 seconds, Stopping threads took: 0.0000193 seconds
+10.584: [GC (Allocation Failure)  116384K->5280K(456704K), 0.0027014 secs]
+10.587: Total time for which application threads were stopped: 0.0028723 seconds, Stopping threads took: 0.0000273 seconds
+10.809: [GC (Allocation Failure)  113824K->985K(453120K), 0.0006497 secs]
+10.810: Total time for which application threads were stopped: 0.0007883 seconds, Stopping threads took: 0.0000470 seconds
+11.021: [GC (Allocation Failure)  107481K->5232K(452096K), 0.0024015 secs]
+11.024: Total time for which application threads were stopped: 0.0025628 seconds, Stopping threads took: 0.0000270 seconds
+11.236: [GC (Allocation Failure)  109680K->5232K(450048K), 0.0025064 secs]
+11.239: Total time for which application threads were stopped: 0.0026650 seconds, Stopping threads took: 0.0000194 seconds
+11.450: [GC (Allocation Failure)  107632K->953K(443904K), 0.0006287 secs]
+11.451: Total time for which application threads were stopped: 0.0007449 seconds, Stopping threads took: 0.0000193 seconds
+11.649: [GC (Allocation Failure)  101305K->2777K(446976K), 0.0011528 secs]
+11.651: Total time for which application threads were stopped: 0.0012898 seconds, Stopping threads took: 0.0000185 seconds
+11.847: [GC (Allocation Failure)  101081K->3097K(441856K), 0.0014474 secs]
+11.848: Total time for which application threads were stopped: 0.0015607 seconds, Stopping threads took: 0.0000169 seconds
+12.041: [GC (Allocation Failure)  99353K->1849K(442368K), 0.0008499 secs]
+12.042: Total time for which application threads were stopped: 0.0009690 seconds, Stopping threads took: 0.0000193 seconds
+12.231: [GC (Allocation Failure)  96057K->5408K(440832K), 0.0026773 secs]
+12.233: Total time for which application threads were stopped: 0.0028463 seconds, Stopping threads took: 0.0000275 seconds
+12.416: [GC (Allocation Failure)  98080K->5552K(440320K), 0.0027670 secs]
+12.419: Total time for which application threads were stopped: 0.0028952 seconds, Stopping threads took: 0.0000194 seconds
+12.607: [GC (Allocation Failure)  96688K->4665K(436736K), 0.0016496 secs]
+12.609: Total time for which application threads were stopped: 0.0018259 seconds, Stopping threads took: 0.0000257 seconds
+12.794: [GC (Allocation Failure)  94265K->5296K(440320K), 0.0031414 secs]
+12.797: Total time for which application threads were stopped: 0.0033219 seconds, Stopping threads took: 0.0000279 seconds
+12.976: [GC (Allocation Failure)  94896K->5184K(440320K), 0.0022962 secs]
+12.979: Total time for which application threads were stopped: 0.0024373 seconds, Stopping threads took: 0.0000193 seconds
+13.165: [GC (Allocation Failure)  94784K->5600K(458240K), 0.0027975 secs]
+13.168: Total time for which application threads were stopped: 0.0029575 seconds, Stopping threads took: 0.0000203 seconds
+13.382: [GC (Allocation Failure)  113120K->5312K(458240K), 0.0026175 secs]
+13.385: Total time for which application threads were stopped: 0.0028034 seconds, Stopping threads took: 0.0000202 seconds
+13.606: [GC (Allocation Failure)  112832K->5536K(479744K), 0.0027922 secs]
+13.609: Total time for which application threads were stopped: 0.0029782 seconds, Stopping threads took: 0.0000267 seconds
+13.871: [GC (Allocation Failure)  134560K->5408K(479744K), 0.0029144 secs]
+13.874: Total time for which application threads were stopped: 0.0030719 seconds, Stopping threads took: 0.0000190 seconds
+14.135: [GC (Allocation Failure)  134432K->2937K(471552K), 0.0012949 secs]
+14.136: Total time for which application threads were stopped: 0.0014265 seconds, Stopping threads took: 0.0000196 seconds
+14.386: [GC (Allocation Failure)  128889K->5504K(471040K), 0.0029082 secs]
+14.389: Total time for which application threads were stopped: 0.0030802 seconds, Stopping threads took: 0.0000269 seconds
+14.638: [GC (Allocation Failure)  128384K->5360K(497664K), 0.0028192 secs]
+14.641: Total time for which application threads were stopped: 0.0029930 seconds, Stopping threads took: 0.0000283 seconds
+14.935: [GC (Allocation Failure)  152816K->5152K(491520K), 0.0025806 secs]
+14.938: Total time for which application threads were stopped: 0.0027528 seconds, Stopping threads took: 0.0000278 seconds
+15.228: [GC (Allocation Failure)  149024K->5120K(487936K), 0.0025206 secs]
+15.231: Total time for which application threads were stopped: 0.0026733 seconds, Stopping threads took: 0.0000191 seconds
+15.516: [GC (Allocation Failure)  145408K->5424K(484864K), 0.0027803 secs]
+15.519: Total time for which application threads were stopped: 0.0029437 seconds, Stopping threads took: 0.0000194 seconds
+15.798: [GC (Allocation Failure)  142128K->5392K(481792K), 0.0024160 secs]
+15.800: Total time for which application threads were stopped: 0.0025499 seconds, Stopping threads took: 0.0000140 seconds
+16.067: [GC (Allocation Failure)  139024K->5088K(478208K), 0.0023352 secs]
+16.070: Total time for which application threads were stopped: 0.0025024 seconds, Stopping threads took: 0.0000260 seconds
+16.327: [GC (Allocation Failure)  135648K->5120K(475136K), 0.0021989 secs]
+16.330: Total time for which application threads were stopped: 0.0023728 seconds, Stopping threads took: 0.0000264 seconds
+16.586: [GC (Allocation Failure)  132608K->5408K(472576K), 0.0027470 secs]
+16.589: Total time for which application threads were stopped: 0.0029240 seconds, Stopping threads took: 0.0000285 seconds
+16.838: [GC (Allocation Failure)  129824K->4185K(468480K), 0.0015316 secs]
+16.840: Total time for which application threads were stopped: 0.0016632 seconds, Stopping threads took: 0.0000167 seconds
+17.082: [GC (Allocation Failure)  126041K->5280K(467456K), 0.0025873 secs]
+17.085: Total time for which application threads were stopped: 0.0027629 seconds, Stopping threads took: 0.0000261 seconds
+17.323: [GC (Allocation Failure)  124576K->5376K(464896K), 0.0025933 secs]
+17.325: Total time for which application threads were stopped: 0.0027621 seconds, Stopping threads took: 0.0000193 seconds
+17.559: [GC (Allocation Failure)  122112K->5328K(462336K), 0.0025227 secs]
+17.562: Total time for which application threads were stopped: 0.0027101 seconds, Stopping threads took: 0.0000339 seconds
+17.789: [GC (Allocation Failure)  119504K->5000K(458240K), 0.0020895 secs]
+17.791: Total time for which application threads were stopped: 0.0022314 seconds, Stopping threads took: 0.0000174 seconds
+18.018: [GC (Allocation Failure)  116616K->2113K(453120K), 0.0008062 secs]
+18.018: Total time for which application threads were stopped: 0.0009380 seconds, Stopping threads took: 0.0000188 seconds
+18.234: [GC (Allocation Failure)  111169K->6312K(455168K), 0.0027736 secs]
+18.237: Total time for which application threads were stopped: 0.0029256 seconds, Stopping threads took: 0.0000193 seconds
+18.454: [GC (Allocation Failure)  113320K->2657K(449536K), 0.0009444 secs]
+18.455: Total time for which application threads were stopped: 0.0010680 seconds, Stopping threads took: 0.0000310 seconds
+18.661: [GC (Allocation Failure)  107617K->6024K(450560K), 0.0025327 secs]
+18.664: Total time for which application threads were stopped: 0.0026852 seconds, Stopping threads took: 0.0000193 seconds
+18.872: [GC (Allocation Failure)  108936K->5896K(448512K), 0.0024080 secs]
+18.875: Total time for which application threads were stopped: 0.0025817 seconds, Stopping threads took: 0.0000282 seconds
+19.077: [GC (Allocation Failure)  106760K->6104K(446976K), 0.0025957 secs]
+19.080: Total time for which application threads were stopped: 0.0027639 seconds, Stopping threads took: 0.0000255 seconds
+19.278: [GC (Allocation Failure)  104920K->6232K(444928K), 0.0026982 secs]
+19.280: Total time for which application threads were stopped: 0.0028527 seconds, Stopping threads took: 0.0000202 seconds
+19.473: [GC (Allocation Failure)  103000K->6056K(450560K), 0.0024635 secs]
+19.476: Total time for which application threads were stopped: 0.0026127 seconds, Stopping threads took: 0.0000292 seconds
+19.682: [GC (Allocation Failure)  108968K->2657K(445440K), 0.0007398 secs]
+19.683: Total time for which application threads were stopped: 0.0008843 seconds, Stopping threads took: 0.0000194 seconds
+19.888: [GC (Allocation Failure)  103521K->4801K(446976K), 0.0015801 secs]
+19.890: Total time for which application threads were stopped: 0.0017228 seconds, Stopping threads took: 0.0000187 seconds
+20.090: [GC (Allocation Failure)  103617K->5473K(443904K), 0.0018311 secs]
+20.092: Total time for which application threads were stopped: 0.0019684 seconds, Stopping threads took: 0.0000169 seconds
+20.290: [GC (Allocation Failure)  102241K->4609K(442368K), 0.0015168 secs]
+20.292: Total time for which application threads were stopped: 0.0016723 seconds, Stopping threads took: 0.0000196 seconds
+20.485: [GC (Allocation Failure)  99329K->2273K(437248K), 0.0007587 secs]
+20.485: Total time for which application threads were stopped: 0.0008855 seconds, Stopping threads took: 0.0000203 seconds
+20.675: [GC (Allocation Failure)  95457K->6136K(440832K), 0.0024345 secs]
+20.677: Total time for which application threads were stopped: 0.0026315 seconds, Stopping threads took: 0.0000265 seconds
+20.861: [GC (Allocation Failure)  97784K->6168K(438272K), 0.0025145 secs]
+20.863: Total time for which application threads were stopped: 0.0026859 seconds, Stopping threads took: 0.0000278 seconds
+21.051: [GC (Allocation Failure)  96280K->2817K(437248K), 0.0008717 secs]
+21.052: Total time for which application threads were stopped: 0.0009927 seconds, Stopping threads took: 0.0000194 seconds
+21.232: [GC (Allocation Failure)  91393K->6360K(435200K), 0.0026195 secs]
+21.234: Total time for which application threads were stopped: 0.0027937 seconds, Stopping threads took: 0.0000200 seconds
+21.416: [GC (Allocation Failure)  93400K->2369K(435200K), 0.0008944 secs]
+21.417: Total time for which application threads were stopped: 0.0010222 seconds, Stopping threads took: 0.0000202 seconds
+21.585: [GC (Allocation Failure)  87873K->6056K(431616K), 0.0022596 secs]
+21.587: Total time for which application threads were stopped: 0.0024302 seconds, Stopping threads took: 0.0000273 seconds
+21.757: [GC (Allocation Failure)  90024K->5928K(431616K), 0.0023388 secs]
+21.759: Total time for which application threads were stopped: 0.0024945 seconds, Stopping threads took: 0.0000192 seconds
+21.926: [GC (Allocation Failure)  88360K->6264K(433152K), 0.0027176 secs]
+21.928: Total time for which application threads were stopped: 0.0028739 seconds, Stopping threads took: 0.0000197 seconds
+22.093: [GC (Allocation Failure)  88696K->3457K(450048K), 0.0013449 secs]
+22.094: Total time for which application threads were stopped: 0.0014913 seconds, Stopping threads took: 0.0000254 seconds
+22.292: [GC (Allocation Failure)  102785K->4513K(443392K), 0.0014595 secs]
+22.293: Total time for which application threads were stopped: 0.0016230 seconds, Stopping threads took: 0.0000263 seconds
+22.488: [GC (Allocation Failure)  101793K->4001K(443392K), 0.0012788 secs]
+22.490: Total time for which application threads were stopped: 0.0014228 seconds, Stopping threads took: 0.0000203 seconds
+22.686: [GC (Allocation Failure)  99233K->2017K(437760K), 0.0006636 secs]
+22.687: Total time for which application threads were stopped: 0.0007918 seconds, Stopping threads took: 0.0000264 seconds
+22.874: [GC (Allocation Failure)  95713K->6136K(440832K), 0.0026654 secs]
+22.877: Total time for which application threads were stopped: 0.0028414 seconds, Stopping threads took: 0.0000274 seconds
+23.058: [GC (Allocation Failure)  98296K->6168K(438784K), 0.0025176 secs]
+23.061: Total time for which application threads were stopped: 0.0026780 seconds, Stopping threads took: 0.0000258 seconds
+23.244: [GC (Allocation Failure)  96792K->3713K(437248K), 0.0012038 secs]
+23.245: Total time for which application threads were stopped: 0.0013436 seconds, Stopping threads took: 0.0000198 seconds
+23.429: [GC (Allocation Failure)  92801K->5928K(435200K), 0.0023920 secs]
+23.432: Total time for which application threads were stopped: 0.0025685 seconds, Stopping threads took: 0.0000265 seconds
+23.609: [GC (Allocation Failure)  93480K->4001K(434688K), 0.0012087 secs]
+23.610: Total time for which application threads were stopped: 0.0013512 seconds, Stopping threads took: 0.0000276 seconds
+23.782: [GC (Allocation Failure)  90017K->6232K(436224K), 0.0031728 secs]
+23.785: Total time for which application threads were stopped: 0.0033659 seconds, Stopping threads took: 0.0000187 seconds
+23.963: [GC (Allocation Failure)  92248K->6344K(453120K), 0.0028628 secs]
+23.966: Total time for which application threads were stopped: 0.0030180 seconds, Stopping threads took: 0.0000198 seconds
+24.171: [GC (Allocation Failure)  109256K->4609K(453632K), 0.0016129 secs]
+24.173: Total time for which application threads were stopped: 0.0017581 seconds, Stopping threads took: 0.0000194 seconds
+24.380: [GC (Allocation Failure)  107521K->6104K(474112K), 0.0024562 secs]
+24.383: Total time for which application threads were stopped: 0.0026136 seconds, Stopping threads took: 0.0000201 seconds
+24.637: [GC (Allocation Failure)  130008K->6088K(474112K), 0.0025157 secs]
+24.640: Total time for which application threads were stopped: 0.0026793 seconds, Stopping threads took: 0.0000261 seconds
+24.887: [GC (Allocation Failure)  129992K->3265K(466432K), 0.0011096 secs]
+24.888: Total time for which application threads were stopped: 0.0012613 seconds, Stopping threads took: 0.0000196 seconds
+25.129: [GC (Allocation Failure)  124609K->5921K(466432K), 0.0021631 secs]
+25.131: Total time for which application threads were stopped: 0.0023656 seconds, Stopping threads took: 0.0000280 seconds
+25.369: [GC (Allocation Failure)  124705K->5928K(463872K), 0.0025006 secs]
+25.371: Total time for which application threads were stopped: 0.0026839 seconds, Stopping threads took: 0.0000279 seconds
+25.610: [GC (Allocation Failure)  122152K->5921K(461312K), 0.0021640 secs]
+25.612: Total time for which application threads were stopped: 0.0023286 seconds, Stopping threads took: 0.0000192 seconds
+25.845: [GC (Allocation Failure)  119585K->3073K(456192K), 0.0009925 secs]
+25.846: Total time for which application threads were stopped: 0.0011159 seconds, Stopping threads took: 0.0000191 seconds
+26.068: [GC (Allocation Failure)  114177K->6024K(456192K), 0.0022686 secs]
+26.070: Total time for which application threads were stopped: 0.0024218 seconds, Stopping threads took: 0.0000258 seconds
+26.285: [GC (Allocation Failure)  114568K->5864K(454144K), 0.0025513 secs]
+26.288: Total time for which application threads were stopped: 0.0027107 seconds, Stopping threads took: 0.0000192 seconds
+26.503: [GC (Allocation Failure)  112360K->6056K(452096K), 0.0025145 secs]
+26.506: Total time for which application threads were stopped: 0.0026720 seconds, Stopping threads took: 0.0000200 seconds
+26.720: [GC (Allocation Failure)  110504K->2977K(446976K), 0.0011729 secs]
+26.722: Total time for which application threads were stopped: 0.0013045 seconds, Stopping threads took: 0.0000273 seconds
+26.923: [GC (Allocation Failure)  105377K->5832K(448000K), 0.0023751 secs]
+26.926: Total time for which application threads were stopped: 0.0025823 seconds, Stopping threads took: 0.0000193 seconds
+27.130: [GC (Allocation Failure)  106184K->6104K(446464K), 0.0025281 secs]
+27.133: Total time for which application threads were stopped: 0.0026916 seconds, Stopping threads took: 0.0000278 seconds
+27.334: [GC (Allocation Failure)  104408K->6104K(444416K), 0.0027554 secs]
+27.336: Total time for which application threads were stopped: 0.0029259 seconds, Stopping threads took: 0.0000274 seconds
+27.529: [GC (Allocation Failure)  102360K->5960K(462336K), 0.0024612 secs]
+27.531: Total time for which application threads were stopped: 0.0026365 seconds, Stopping threads took: 0.0000199 seconds
+27.761: [GC (Allocation Failure)  120648K->5089K(459264K), 0.0018068 secs]
+27.763: Total time for which application threads were stopped: 0.0019524 seconds, Stopping threads took: 0.0000189 seconds
+27.993: [GC (Allocation Failure)  117217K->6360K(457728K), 0.0029611 secs]
+27.996: Total time for which application threads were stopped: 0.0031242 seconds, Stopping threads took: 0.0000190 seconds
+28.212: [GC (Allocation Failure)  115928K->6264K(459776K), 0.0025649 secs]
+28.214: Total time for which application threads were stopped: 0.0027359 seconds, Stopping threads took: 0.0000275 seconds
+28.435: [GC (Allocation Failure)  115832K->3905K(453120K), 0.0012457 secs]
+28.436: Total time for which application threads were stopped: 0.0013779 seconds, Stopping threads took: 0.0000191 seconds
+28.651: [GC (Allocation Failure)  111425K->6456K(453632K), 0.0029905 secs]
+28.654: Total time for which application threads were stopped: 0.0031582 seconds, Stopping threads took: 0.0000263 seconds
+28.869: [GC (Allocation Failure)  111928K->2177K(447488K), 0.0007945 secs]
+28.870: Total time for which application threads were stopped: 0.0009191 seconds, Stopping threads took: 0.0000175 seconds
+29.072: [GC (Allocation Failure)  105601K->5864K(449024K), 0.0020568 secs]
+29.074: Total time for which application threads were stopped: 0.0022169 seconds, Stopping threads took: 0.0000277 seconds
+29.276: [GC (Allocation Failure)  107240K->6184K(447488K), 0.0025116 secs]
+29.278: Total time for which application threads were stopped: 0.0026747 seconds, Stopping threads took: 0.0000195 seconds
+29.477: [GC (Allocation Failure)  105512K->6296K(445440K), 0.0027711 secs]
+29.479: Total time for which application threads were stopped: 0.0029370 seconds, Stopping threads took: 0.0000196 seconds
+29.676: [GC (Allocation Failure)  103576K->6144K(461824K), 0.0026090 secs]
+29.679: Total time for which application threads were stopped: 0.0027724 seconds, Stopping threads took: 0.0000259 seconds
+29.906: [GC (Allocation Failure)  120320K->5968K(464384K), 0.0022835 secs]
+29.909: Total time for which application threads were stopped: 0.0024492 seconds, Stopping threads took: 0.0000264 seconds
+30.139: [GC (Allocation Failure)  120144K->4553K(457728K), 0.0014167 secs]
+30.141: Total time for which application threads were stopped: 0.0015734 seconds, Stopping threads took: 0.0000195 seconds
+30.365: [GC (Allocation Failure)  116169K->6320K(457216K), 0.0029555 secs]
+30.368: Total time for which application threads were stopped: 0.0031184 seconds, Stopping threads took: 0.0000190 seconds
+30.583: [GC (Allocation Failure)  115376K->6160K(480768K), 0.0024616 secs]
+30.585: Total time for which application threads were stopped: 0.0026322 seconds, Stopping threads took: 0.0000269 seconds
+30.850: [GC (Allocation Failure)  137232K->3945K(473600K), 0.0015774 secs]
+30.852: Total time for which application threads were stopped: 0.0017107 seconds, Stopping threads took: 0.0000185 seconds
+31.107: [GC (Allocation Failure)  131945K->5968K(472576K), 0.0022503 secs]
+31.110: Total time for which application threads were stopped: 0.0024141 seconds, Stopping threads took: 0.0000273 seconds
+31.360: [GC (Allocation Failure)  130896K->2793K(466432K), 0.0008481 secs]
+31.361: Total time for which application threads were stopped: 0.0009665 seconds, Stopping threads took: 0.0000196 seconds
+31.607: [GC (Allocation Failure)  124649K->5993K(466944K), 0.0018943 secs]
+31.609: Total time for which application threads were stopped: 0.0020605 seconds, Stopping threads took: 0.0000256 seconds
+31.848: [GC (Allocation Failure)  125289K->6032K(464384K), 0.0025038 secs]
+31.851: Total time for which application threads were stopped: 0.0026676 seconds, Stopping threads took: 0.0000197 seconds
+32.083: [GC (Allocation Failure)  122768K->5968K(461824K), 0.0021670 secs]
+32.085: Total time for which application threads were stopped: 0.0023614 seconds, Stopping threads took: 0.0000267 seconds
+32.315: [GC (Allocation Failure)  120144K->4265K(457728K), 0.0015104 secs]
+32.317: Total time for which application threads were stopped: 0.0016619 seconds, Stopping threads took: 0.0000196 seconds
+32.543: [GC (Allocation Failure)  115881K->6304K(457216K), 0.0025053 secs]
+32.546: Total time for which application threads were stopped: 0.0026694 seconds, Stopping threads took: 0.0000192 seconds
+32.762: [GC (Allocation Failure)  115360K->6144K(454656K), 0.0025358 secs]
+32.765: Total time for which application threads were stopped: 0.0026985 seconds, Stopping threads took: 0.0000280 seconds
+32.986: [GC (Allocation Failure)  113152K->6352K(453120K), 0.0026832 secs]
+32.989: Total time for which application threads were stopped: 0.0028339 seconds, Stopping threads took: 0.0000167 seconds
+33.197: [GC (Allocation Failure)  111312K->5577K(450048K), 0.0019193 secs]
+33.199: Total time for which application threads were stopped: 0.0020661 seconds, Stopping threads took: 0.0000196 seconds
+33.405: [GC (Allocation Failure)  108489K->6288K(449024K), 0.0024844 secs]
+33.407: Total time for which application threads were stopped: 0.0026429 seconds, Stopping threads took: 0.0000193 seconds
+33.610: [GC (Allocation Failure)  107152K->5936K(446464K), 0.0022881 secs]
+33.613: Total time for which application threads were stopped: 0.0024516 seconds, Stopping threads took: 0.0000195 seconds
+33.811: [GC (Allocation Failure)  104752K->6032K(444416K), 0.0024503 secs]
+33.814: Total time for which application threads were stopped: 0.0026097 seconds, Stopping threads took: 0.0000192 seconds
+34.006: [GC (Allocation Failure)  102800K->5936K(446976K), 0.0021770 secs]
+34.009: Total time for which application threads were stopped: 0.0023397 seconds, Stopping threads took: 0.0000267 seconds
+34.202: [GC (Allocation Failure)  103216K->6496K(464896K), 0.0030539 secs]
+34.205: Total time for which application threads were stopped: 0.0032277 seconds, Stopping threads took: 0.0000277 seconds
+34.445: [GC (Allocation Failure)  122208K->6272K(465408K), 0.0027743 secs]
+34.448: Total time for which application threads were stopped: 0.0029421 seconds, Stopping threads took: 0.0000258 seconds
+34.682: [GC (Allocation Failure)  121984K->6144K(487936K), 0.0024173 secs]
+34.685: Total time for which application threads were stopped: 0.0026217 seconds, Stopping threads took: 0.0000526 seconds
+34.969: [GC (Allocation Failure)  145408K->6352K(488448K), 0.0027087 secs]
+34.972: Total time for which application threads were stopped: 0.0028709 seconds, Stopping threads took: 0.0000191 seconds
+35.257: [GC (Allocation Failure)  145616K->5968K(483328K), 0.0023731 secs]
+35.259: Total time for which application threads were stopped: 0.0025482 seconds, Stopping threads took: 0.0000194 seconds
+35.529: [GC (Allocation Failure)  141648K->6400K(510976K), 0.0035562 secs]
+35.533: Total time for which application threads were stopped: 0.0037105 seconds, Stopping threads took: 0.0000197 seconds
+35.868: [GC (Allocation Failure)  169216K->6288K(505856K), 0.0027437 secs]
+35.871: Total time for which application threads were stopped: 0.0029201 seconds, Stopping threads took: 0.0000185 seconds
+36.190: [GC (Allocation Failure)  165008K->2921K(498688K), 0.0009485 secs]
+36.191: Total time for which application threads were stopped: 0.0010648 seconds, Stopping threads took: 0.0000182 seconds
+36.502: [GC (Allocation Failure)  157545K->7264K(498688K), 0.0028562 secs]
+36.505: Total time for which application threads were stopped: 0.0030427 seconds, Stopping threads took: 0.0000281 seconds
+36.807: [GC (Allocation Failure)  157792K->7312K(495104K), 0.0028047 secs]
+36.810: Total time for which application threads were stopped: 0.0029866 seconds, Stopping threads took: 0.0000274 seconds
+37.108: [GC (Allocation Failure)  154256K->4153K(488448K), 0.0010795 secs]
+37.110: Total time for which application threads were stopped: 0.0012092 seconds, Stopping threads took: 0.0000248 seconds
+37.396: [GC (Allocation Failure)  147513K->7016K(487424K), 0.0023032 secs]
+37.399: Total time for which application threads were stopped: 0.0024647 seconds, Stopping threads took: 0.0000200 seconds
+37.679: [GC (Allocation Failure)  146792K->7224K(484352K), 0.0030444 secs]
+37.682: Total time for which application threads were stopped: 0.0032086 seconds, Stopping threads took: 0.0000284 seconds
+37.954: [GC (Allocation Failure)  143416K->7176K(481280K), 0.0026254 secs]
+37.957: Total time for which application threads were stopped: 0.0027858 seconds, Stopping threads took: 0.0000273 seconds
+38.221: [GC (Allocation Failure)  140296K->6824K(477696K), 0.0021217 secs]
+38.224: Total time for which application threads were stopped: 0.0022906 seconds, Stopping threads took: 0.0000192 seconds
+38.489: [GC (Allocation Failure)  136872K->7336K(475136K), 0.0027599 secs]
+38.492: Total time for which application threads were stopped: 0.0029161 seconds, Stopping threads took: 0.0000185 seconds
+38.742: [GC (Allocation Failure)  134312K->7024K(471040K), 0.0024899 secs]
+38.745: Total time for which application threads were stopped: 0.0026656 seconds, Stopping threads took: 0.0000214 seconds
+38.995: [GC (Allocation Failure)  130928K->7504K(468992K), 0.0025975 secs]
+38.997: Total time for which application threads were stopped: 0.0027761 seconds, Stopping threads took: 0.0000270 seconds
+39.241: [GC (Allocation Failure)  128848K->7840K(466944K), 0.0027604 secs]
+39.244: Total time for which application threads were stopped: 0.0029212 seconds, Stopping threads took: 0.0000194 seconds
+39.480: [GC (Allocation Failure)  126624K->3593K(460288K), 0.0008570 secs]
+39.481: Total time for which application threads were stopped: 0.0009773 seconds, Stopping threads took: 0.0000194 seconds
+39.713: [GC (Allocation Failure)  119817K->7856K(461824K), 0.0027756 secs]
+39.715: Total time for which application threads were stopped: 0.0029182 seconds, Stopping threads took: 0.0000193 seconds
+39.945: [GC (Allocation Failure)  121520K->7504K(458752K), 0.0027361 secs]
+39.947: Total time for which application threads were stopped: 0.0029230 seconds, Stopping threads took: 0.0000190 seconds
+40.170: [GC (Allocation Failure)  118608K->7584K(456704K), 0.0024299 secs]
+40.173: Total time for which application threads were stopped: 0.0025975 seconds, Stopping threads took: 0.0000250 seconds
+40.393: [GC (Allocation Failure)  116128K->7872K(473600K), 0.0029174 secs]
+40.396: Total time for which application threads were stopped: 0.0031054 seconds, Stopping threads took: 0.0000190 seconds
+40.640: [GC (Allocation Failure)  131776K->7312K(468992K), 0.0024510 secs]
+40.642: Total time for which application threads were stopped: 0.0026354 seconds, Stopping threads took: 0.0000203 seconds
+40.890: [GC (Allocation Failure)  128656K->7632K(466944K), 0.0028304 secs]
+40.893: Total time for which application threads were stopped: 0.0029931 seconds, Stopping threads took: 0.0000276 seconds
+41.134: [GC (Allocation Failure)  126416K->7732K(463360K), 0.0025402 secs]
+41.137: Total time for which application threads were stopped: 0.0027107 seconds, Stopping threads took: 0.0000274 seconds
+41.368: [GC (Allocation Failure)  123956K->8652K(474112K), 0.0027458 secs]
+41.371: Total time for which application threads were stopped: 0.0029246 seconds, Stopping threads took: 0.0000187 seconds
+41.622: [GC (Allocation Failure)  133068K->8700K(489472K), 0.0026426 secs]
+41.624: Total time for which application threads were stopped: 0.0028143 seconds, Stopping threads took: 0.0000192 seconds
+41.906: [GC (Allocation Failure)  148476K->4214K(479744K), 0.0007446 secs]
+41.906: Total time for which application threads were stopped: 0.0008580 seconds, Stopping threads took: 0.0000193 seconds
+42.178: [GC (Allocation Failure)  140406K->8844K(481280K), 0.0029142 secs]
+42.181: Total time for which application threads were stopped: 0.0030875 seconds, Stopping threads took: 0.0000267 seconds
+42.446: [GC (Allocation Failure)  141964K->8508K(477696K), 0.0025663 secs]
+42.449: Total time for which application threads were stopped: 0.0027280 seconds, Stopping threads took: 0.0000279 seconds
+42.706: [GC (Allocation Failure)  138556K->8476K(474624K), 0.0023870 secs]
+42.709: Total time for which application threads were stopped: 0.0025599 seconds, Stopping threads took: 0.0000278 seconds
+42.964: [GC (Allocation Failure)  135452K->8732K(472064K), 0.0028217 secs]
+42.967: Total time for which application threads were stopped: 0.0030082 seconds, Stopping threads took: 0.0000271 seconds
+43.213: [GC (Allocation Failure)  132636K->7190K(467968K), 0.0017574 secs]
+43.215: Total time for which application threads were stopped: 0.0019029 seconds, Stopping threads took: 0.0000193 seconds
+43.460: [GC (Allocation Failure)  128534K->8476K(466432K), 0.0023279 secs]
+43.462: Total time for which application threads were stopped: 0.0025000 seconds, Stopping threads took: 0.0000204 seconds
+43.702: [GC (Allocation Failure)  127260K->8604K(464384K), 0.0023974 secs]
+43.705: Total time for which application threads were stopped: 0.0025649 seconds, Stopping threads took: 0.0000198 seconds
+43.936: [GC (Allocation Failure)  124828K->8476K(461312K), 0.0026328 secs]
+43.939: Total time for which application threads were stopped: 0.0028022 seconds, Stopping threads took: 0.0000201 seconds
+44.169: [GC (Allocation Failure)  122140K->7222K(457728K), 0.0013974 secs]
+44.170: Total time for which application threads were stopped: 0.0015505 seconds, Stopping threads took: 0.0000273 seconds
+44.400: [GC (Allocation Failure)  118326K->8732K(456704K), 0.0025657 secs]
+44.403: Total time for which application threads were stopped: 0.0027611 seconds, Stopping threads took: 0.0000216 seconds
+44.619: [GC (Allocation Failure)  117276K->8508K(454144K), 0.0023036 secs]
+44.622: Total time for which application threads were stopped: 0.0024580 seconds, Stopping threads took: 0.0000204 seconds
+44.837: [GC (Allocation Failure)  115004K->8684K(452608K), 0.0026740 secs]
+44.840: Total time for which application threads were stopped: 0.0028358 seconds, Stopping threads took: 0.0000192 seconds
+45.045: [GC (Allocation Failure)  113132K->6998K(448512K), 0.0015391 secs]
+45.047: Total time for which application threads were stopped: 0.0016752 seconds, Stopping threads took: 0.0000184 seconds
+45.252: [GC (Allocation Failure)  109398K->8524K(448000K), 0.0025391 secs]
+45.255: Total time for which application threads were stopped: 0.0026944 seconds, Stopping threads took: 0.0000186 seconds
+45.454: [GC (Allocation Failure)  108876K->8684K(455680K), 0.0027805 secs]
+45.457: Total time for which application threads were stopped: 0.0029452 seconds, Stopping threads took: 0.0000195 seconds
+45.674: [GC (Allocation Failure)  115180K->8924K(455680K), 0.0027099 secs]
+45.676: Total time for which application threads were stopped: 0.0028738 seconds, Stopping threads took: 0.0000191 seconds
+45.887: [GC (Allocation Failure)  115420K->8492K(476672K), 0.0026819 secs]
+45.889: Total time for which application threads were stopped: 0.0028500 seconds, Stopping threads took: 0.0000201 seconds
+46.153: [GC (Allocation Failure)  136492K->8860K(477184K), 0.0028006 secs]
+46.156: Total time for which application threads were stopped: 0.0029654 seconds, Stopping threads took: 0.0000274 seconds
+46.408: [GC (Allocation Failure)  136860K->8636K(502784K), 0.0026873 secs]
+46.411: Total time for which application threads were stopped: 0.0028687 seconds, Stopping threads took: 0.0000250 seconds
+46.722: [GC (Allocation Failure)  162236K->8412K(497152K), 0.0026401 secs]
+46.725: Total time for which application threads were stopped: 0.0028125 seconds, Stopping threads took: 0.0000269 seconds
+47.027: [GC (Allocation Failure)  157916K->8845K(492544K), 0.0028896 secs]
+47.030: Total time for which application threads were stopped: 0.0030544 seconds, Stopping threads took: 0.0000188 seconds
+47.317: [GC (Allocation Failure)  154765K->10268K(489984K), 0.0027644 secs]
+47.320: Total time for which application threads were stopped: 0.0029232 seconds, Stopping threads took: 0.0000275 seconds
+47.612: [GC (Allocation Failure)  152604K->10188K(486400K), 0.0020776 secs]
+47.614: Total time for which application threads were stopped: 0.0022416 seconds, Stopping threads took: 0.0000243 seconds
+47.892: [GC (Allocation Failure)  148940K->10332K(483328K), 0.0026782 secs]
+47.895: Total time for which application threads were stopped: 0.0028438 seconds, Stopping threads took: 0.0000198 seconds
+48.163: [GC (Allocation Failure)  145500K->10100K(478208K), 0.0025642 secs]
+48.166: Total time for which application threads were stopped: 0.0027387 seconds, Stopping threads took: 0.0000274 seconds
+48.428: [GC (Allocation Failure)  142196K->11620K(476672K), 0.0023966 secs]
+48.431: Total time for which application threads were stopped: 0.0025683 seconds, Stopping threads took: 0.0000271 seconds
+48.691: [GC (Allocation Failure)  140644K->7694K(470016K), 0.0009520 secs]
+48.692: Total time for which application threads were stopped: 0.0010801 seconds, Stopping threads took: 0.0000193 seconds
+48.949: [GC (Allocation Failure)  133646K->11716K(471040K), 0.0023716 secs]
+48.952: Total time for which application threads were stopped: 0.0025692 seconds, Stopping threads took: 0.0000249 seconds
+49.202: [GC (Allocation Failure)  134596K->11604K(467968K), 0.0023986 secs]
+49.205: Total time for which application threads were stopped: 0.0025532 seconds, Stopping threads took: 0.0000190 seconds
+49.445: [GC (Allocation Failure)  131924K->11780K(465920K), 0.0027352 secs]
+49.448: Total time for which application threads were stopped: 0.0029013 seconds, Stopping threads took: 0.0000277 seconds
+49.683: [GC (Allocation Failure)  129540K->11789K(461312K), 0.0028611 secs]
+49.686: Total time for which application threads were stopped: 0.0030287 seconds, Stopping threads took: 0.0000197 seconds
+49.915: [GC (Allocation Failure)  126989K->13733K(460800K), 0.0028596 secs]
+49.918: Total time for which application threads were stopped: 0.0030153 seconds, Stopping threads took: 0.0000187 seconds
+50.142: [GC (Allocation Failure)  126373K->13781K(457728K), 0.0024481 secs]
+50.145: Total time for which application threads were stopped: 0.0026247 seconds, Stopping threads took: 0.0000265 seconds
+50.369: [GC (Allocation Failure)  123861K->11566K(453632K), 0.0014781 secs]
+50.371: Total time for which application threads were stopped: 0.0016206 seconds, Stopping threads took: 0.0000185 seconds
+50.588: [GC (Allocation Failure)  119598K->13557K(453632K), 0.0021210 secs]
+50.590: Total time for which application threads were stopped: 0.0022834 seconds, Stopping threads took: 0.0000265 seconds
+50.809: [GC (Allocation Failure)  119541K->10574K(448512K), 0.0011439 secs]
+50.810: Total time for which application threads were stopped: 0.0012648 seconds, Stopping threads took: 0.0000191 seconds
+51.015: [GC (Allocation Failure)  114510K->13685K(449536K), 0.0024440 secs]
+51.017: Total time for which application threads were stopped: 0.0026069 seconds, Stopping threads took: 0.0000201 seconds
+51.223: [GC (Allocation Failure)  115573K->14069K(448000K), 0.0029161 secs]
+51.226: Total time for which application threads were stopped: 0.0030718 seconds, Stopping threads took: 0.0000201 seconds
+51.429: [GC (Allocation Failure)  113909K->13581K(444928K), 0.0021434 secs]
+51.431: Total time for which application threads were stopped: 0.0023017 seconds, Stopping threads took: 0.0000191 seconds
+51.629: [GC (Allocation Failure)  111373K->13933K(443392K), 0.0023011 secs]
+51.632: Total time for which application threads were stopped: 0.0024621 seconds, Stopping threads took: 0.0000249 seconds
+51.822: [GC (Allocation Failure)  109677K->14317K(457728K), 0.0027131 secs]
+51.825: Total time for which application threads were stopped: 0.0028706 seconds, Stopping threads took: 0.0000192 seconds
+52.047: [GC (Allocation Failure)  123885K->12006K(453120K), 0.0012675 secs]
+52.048: Total time for which application threads were stopped: 0.0013995 seconds, Stopping threads took: 0.0000188 seconds
+52.264: [GC (Allocation Failure)  119526K->14477K(457216K), 0.0029802 secs]
+52.267: Total time for which application threads were stopped: 0.0031530 seconds, Stopping threads took: 0.0000196 seconds
+52.486: [GC (Allocation Failure)  121997K->11718K(451072K), 0.0012727 secs]
+52.487: Total time for which application threads were stopped: 0.0014047 seconds, Stopping threads took: 0.0000192 seconds
+52.698: [GC (Allocation Failure)  117190K->14221K(451584K), 0.0026438 secs]
+52.701: Total time for which application threads were stopped: 0.0027986 seconds, Stopping threads took: 0.0000194 seconds
+52.912: [GC (Allocation Failure)  117645K->14157K(449536K), 0.0025252 secs]
+52.914: Total time for which application threads were stopped: 0.0027132 seconds, Stopping threads took: 0.0000198 seconds
+53.123: [GC (Allocation Failure)  115533K->14445K(451072K), 0.0028749 secs]
+53.126: Total time for which application threads were stopped: 0.0030343 seconds, Stopping threads took: 0.0000191 seconds
+53.327: [GC (Allocation Failure)  116845K->12806K(446976K), 0.0016576 secs]
+53.329: Total time for which application threads were stopped: 0.0018104 seconds, Stopping threads took: 0.0000192 seconds
+53.527: [GC (Allocation Failure)  113158K->13933K(450048K), 0.0023545 secs]
+53.530: Total time for which application threads were stopped: 0.0025252 seconds, Stopping threads took: 0.0000348 seconds
+53.730: [GC (Allocation Failure)  114285K->14173K(450048K), 0.0022959 secs]
+53.732: Total time for which application threads were stopped: 0.0024577 seconds, Stopping threads took: 0.0000274 seconds
+53.933: [GC (Allocation Failure)  114525K->14381K(470528K), 0.0028415 secs]
+53.936: Total time for which application threads were stopped: 0.0030142 seconds, Stopping threads took: 0.0000274 seconds
+54.182: [GC (Allocation Failure)  135213K->14093K(470528K), 0.0025739 secs]
+54.185: Total time for which application threads were stopped: 0.0027671 seconds, Stopping threads took: 0.0000180 seconds
+54.431: [GC (Allocation Failure)  134925K->14349K(495104K), 0.0026969 secs]
+54.433: Total time for which application threads were stopped: 0.0028548 seconds, Stopping threads took: 0.0000191 seconds
+54.724: [GC (Allocation Failure)  159757K->13933K(495104K), 0.0024977 secs]
+54.727: Total time for which application threads were stopped: 0.0026706 seconds, Stopping threads took: 0.0000269 seconds
+55.020: [GC (Allocation Failure)  159341K->14125K(489984K), 0.0027617 secs]
+55.023: Total time for which application threads were stopped: 0.0029317 seconds, Stopping threads took: 0.0000191 seconds
+55.308: [GC (Allocation Failure)  155949K->10022K(481792K), 0.0008786 secs]
+55.309: Total time for which application threads were stopped: 0.0009927 seconds, Stopping threads took: 0.0000189 seconds
+55.585: [GC (Allocation Failure)  148262K->10918K(479744K), 0.0009527 secs]
+55.586: Total time for which application threads were stopped: 0.0010753 seconds, Stopping threads took: 0.0000190 seconds
+55.863: [GC (Allocation Failure)  146086K->14453K(480256K), 0.0030644 secs]
+55.866: Total time for which application threads were stopped: 0.0032297 seconds, Stopping threads took: 0.0000196 seconds
+56.132: [GC (Allocation Failure)  146549K->14037K(476672K), 0.0024025 secs]
+56.135: Total time for which application threads were stopped: 0.0025566 seconds, Stopping threads took: 0.0000191 seconds
+56.388: [GC (Allocation Failure)  143061K->13941K(473600K), 0.0025418 secs]
+56.391: Total time for which application threads were stopped: 0.0026953 seconds, Stopping threads took: 0.0000190 seconds
+56.645: [GC (Allocation Failure)  139893K->14069K(470528K), 0.0024743 secs]
+56.647: Total time for which application threads were stopped: 0.0026386 seconds, Stopping threads took: 0.0000187 seconds
+56.895: [GC (Allocation Failure)  136949K->10190K(464384K), 0.0008589 secs]
+56.896: Total time for which application threads were stopped: 0.0009920 seconds, Stopping threads took: 0.0000186 seconds
+57.141: [GC (Allocation Failure)  130510K->12238K(463872K), 0.0015118 secs]
+57.143: Total time for which application threads were stopped: 0.0016678 seconds, Stopping threads took: 0.0000277 seconds
+57.377: [GC (Allocation Failure)  129998K->12462K(461312K), 0.0015880 secs]
+57.378: Total time for which application threads were stopped: 0.0017450 seconds, Stopping threads took: 0.0000191 seconds
+57.616: [GC (Allocation Failure)  127662K->10766K(457216K), 0.0010979 secs]
+57.617: Total time for which application threads were stopped: 0.0012339 seconds, Stopping threads took: 0.0000264 seconds
+57.843: [GC (Allocation Failure)  123406K->14181K(458240K), 0.0023843 secs]
+57.845: Total time for which application threads were stopped: 0.0025469 seconds, Stopping threads took: 0.0000199 seconds
+58.063: [GC (Allocation Failure)  124261K->14117K(455680K), 0.0025422 secs]
+58.065: Total time for which application threads were stopped: 0.0027337 seconds, Stopping threads took: 0.0000219 seconds
+58.288: [GC (Allocation Failure)  122149K->14437K(454144K), 0.0031397 secs]
+58.292: Total time for which application threads were stopped: 0.0033099 seconds, Stopping threads took: 0.0000197 seconds
+58.499: [GC (Allocation Failure)  120421K->14037K(451584K), 0.0022938 secs]
+58.501: Total time for which application threads were stopped: 0.0024811 seconds, Stopping threads took: 0.0000194 seconds
+58.714: [GC (Allocation Failure)  117973K->13941K(449536K), 0.0023732 secs]
+58.716: Total time for which application threads were stopped: 0.0025251 seconds, Stopping threads took: 0.0000166 seconds
+58.921: [GC (Allocation Failure)  115829K->14261K(448000K), 0.0024719 secs]
+58.923: Total time for which application threads were stopped: 0.0026533 seconds, Stopping threads took: 0.0000190 seconds
+59.126: [GC (Allocation Failure)  114101K->14405K(467968K), 0.0030549 secs]
+59.129: Total time for which application threads were stopped: 0.0032213 seconds, Stopping threads took: 0.0000277 seconds
+59.371: [GC (Allocation Failure)  134213K->11150K(462336K), 0.0010547 secs]
+59.372: Total time for which application threads were stopped: 0.0011885 seconds, Stopping threads took: 0.0000195 seconds
+59.606: [GC (Allocation Failure)  128398K->10958K(459264K), 0.0008544 secs]
+59.606: Total time for which application threads were stopped: 0.0009734 seconds, Stopping threads took: 0.0000191 seconds
+59.838: [GC (Allocation Failure)  125646K->14405K(460288K), 0.0027153 secs]
+59.841: Total time for which application threads were stopped: 0.0028711 seconds, Stopping threads took: 0.0000170 seconds
+60.064: [GC (Allocation Failure)  126533K->13909K(457216K), 0.0025147 secs]
+60.066: Total time for which application threads were stopped: 0.0027017 seconds, Stopping threads took: 0.0000297 seconds
+60.287: [GC (Allocation Failure)  123477K->13550K(455168K), 0.0020211 secs]
+60.289: Total time for which application threads were stopped: 0.0021958 seconds, Stopping threads took: 0.0000195 seconds
+60.509: [GC (Allocation Failure)  121070K->14069K(453120K), 0.0025568 secs]
+60.511: Total time for which application threads were stopped: 0.0027224 seconds, Stopping threads took: 0.0000193 seconds
+60.721: [GC (Allocation Failure)  119541K->11758K(451584K), 0.0012392 secs]
+60.723: Total time for which application threads were stopped: 0.0013741 seconds, Stopping threads took: 0.0000265 seconds
+60.926: [GC (Allocation Failure)  115182K->14069K(449024K), 0.0024485 secs]
+60.929: Total time for which application threads were stopped: 0.0025938 seconds, Stopping threads took: 0.0000181 seconds
+61.135: [GC (Allocation Failure)  115445K->14421K(447488K), 0.0028684 secs]
+61.138: Total time for which application threads were stopped: 0.0030393 seconds, Stopping threads took: 0.0000276 seconds
+61.338: [GC (Allocation Failure)  113749K->13909K(444928K), 0.0023772 secs]
+61.341: Total time for which application threads were stopped: 0.0025342 seconds, Stopping threads took: 0.0000197 seconds
+61.532: [GC (Allocation Failure)  111189K->14453K(447488K), 0.0027176 secs]
+61.535: Total time for which application threads were stopped: 0.0028704 seconds, Stopping threads took: 0.0000196 seconds
+61.730: [GC (Allocation Failure)  111733K->14405K(447488K), 0.0026837 secs]
+61.733: Total time for which application threads were stopped: 0.0028563 seconds, Stopping threads took: 0.0000192 seconds
+61.931: [GC (Allocation Failure)  111685K->14373K(466944K), 0.0028594 secs]
+61.934: Total time for which application threads were stopped: 0.0030066 seconds, Stopping threads took: 0.0000162 seconds
+62.169: [GC (Allocation Failure)  131109K->14213K(466944K), 0.0027430 secs]
+62.172: Total time for which application threads were stopped: 0.0029104 seconds, Stopping threads took: 0.0000258 seconds
+62.408: [GC (Allocation Failure)  130949K->14213K(490496K), 0.0027112 secs]
+62.411: Total time for which application threads were stopped: 0.0028896 seconds, Stopping threads took: 0.0000294 seconds
+62.696: [GC (Allocation Failure)  154501K->13909K(490496K), 0.0024415 secs]
+62.699: Total time for which application threads were stopped: 0.0026395 seconds, Stopping threads took: 0.0000258 seconds
+62.984: [GC (Allocation Failure)  154197K->14213K(518144K), 0.0025521 secs]
+62.986: Total time for which application threads were stopped: 0.0027180 seconds, Stopping threads took: 0.0000192 seconds
+63.327: [GC (Allocation Failure)  182661K->14101K(511488K), 0.0028314 secs]
+63.330: Total time for which application threads were stopped: 0.0029973 seconds, Stopping threads took: 0.0000192 seconds
+63.663: [GC (Allocation Failure)  177941K->14093K(506880K), 0.0025165 secs]
+63.665: Total time for which application threads were stopped: 0.0026879 seconds, Stopping threads took: 0.0000281 seconds
+63.984: [GC (Allocation Failure)  173837K->14909K(503808K), 0.0027554 secs]
+63.987: Total time for which application threads were stopped: 0.0029063 seconds, Stopping threads took: 0.0000182 seconds
+64.301: [GC (Allocation Failure)  170557K->14797K(499200K), 0.0025661 secs]
+64.304: Total time for which application threads were stopped: 0.0027321 seconds, Stopping threads took: 0.0000189 seconds
+64.604: [GC (Allocation Failure)  166349K->15213K(496128K), 0.0028363 secs]
+64.606: Total time for which application threads were stopped: 0.0029862 seconds, Stopping threads took: 0.0000184 seconds
+64.905: [GC (Allocation Failure)  163181K->13350K(491008K), 0.0013453 secs]
+64.906: Total time for which application threads were stopped: 0.0014799 seconds, Stopping threads took: 0.0000160 seconds
+65.193: [GC (Allocation Failure)  157734K->15053K(488960K), 0.0027983 secs]
+65.196: Total time for which application threads were stopped: 0.0029672 seconds, Stopping threads took: 0.0000272 seconds
+65.478: [GC (Allocation Failure)  155853K->14797K(484864K), 0.0022216 secs]
+65.481: Total time for which application threads were stopped: 0.0024354 seconds, Stopping threads took: 0.0000525 seconds
+65.759: [GC (Allocation Failure)  152013K->14845K(481792K), 0.0026487 secs]
+65.762: Total time for which application threads were stopped: 0.0028150 seconds, Stopping threads took: 0.0000189 seconds
+66.029: [GC (Allocation Failure)  148989K->15109K(477696K), 0.0028106 secs]
+66.032: Total time for which application threads were stopped: 0.0029767 seconds, Stopping threads took: 0.0000195 seconds
+66.298: [GC (Allocation Failure)  146181K->16381K(475648K), 0.0026009 secs]
+66.301: Total time for which application threads were stopped: 0.0027631 seconds, Stopping threads took: 0.0000190 seconds
+66.558: [GC (Allocation Failure)  144381K->16669K(472576K), 0.0023508 secs]
+66.561: Total time for which application threads were stopped: 0.0025421 seconds, Stopping threads took: 0.0000195 seconds
+66.812: [GC (Allocation Failure)  141597K->15526K(468480K), 0.0016923 secs]
+66.814: Total time for which application threads were stopped: 0.0018381 seconds, Stopping threads took: 0.0000189 seconds
+67.056: [GC (Allocation Failure)  137382K->16661K(466944K), 0.0024828 secs]
+67.058: Total time for which application threads were stopped: 0.0026565 seconds, Stopping threads took: 0.0000281 seconds
+67.297: [GC (Allocation Failure)  135957K->16789K(464896K), 0.0027434 secs]
+67.300: Total time for which application threads were stopped: 0.0029294 seconds, Stopping threads took: 0.0000186 seconds
+67.532: [GC (Allocation Failure)  133525K->16721K(460288K), 0.0027764 secs]
+67.534: Total time for which application threads were stopped: 0.0029518 seconds, Stopping threads took: 0.0000197 seconds
+67.765: [GC (Allocation Failure)  130897K->18265K(459264K), 0.0024251 secs]
+67.767: Total time for which application threads were stopped: 0.0026311 seconds, Stopping threads took: 0.0000190 seconds
+67.999: [GC (Allocation Failure)  129881K->14442K(453120K), 0.0008741 secs]
+67.999: Total time for which application threads were stopped: 0.0009927 seconds, Stopping threads took: 0.0000194 seconds
+68.214: [GC (Allocation Failure)  123498K->18753K(455168K), 0.0027473 secs]
+68.217: Total time for which application threads were stopped: 0.0029211 seconds, Stopping threads took: 0.0000198 seconds
+68.436: [GC (Allocation Failure)  125761K->14922K(449536K), 0.0010344 secs]
+68.437: Total time for which application threads were stopped: 0.0011714 seconds, Stopping threads took: 0.0000246 seconds
+68.644: [GC (Allocation Failure)  119882K->18417K(450560K), 0.0022750 secs]
+68.646: Total time for which application threads were stopped: 0.0024310 seconds, Stopping threads took: 0.0000201 seconds
+68.853: [GC (Allocation Failure)  121329K->18257K(448512K), 0.0022389 secs]
+68.855: Total time for which application threads were stopped: 0.0024041 seconds, Stopping threads took: 0.0000170 seconds
+69.059: [GC (Allocation Failure)  119121K->18529K(446976K), 0.0027060 secs]
+69.062: Total time for which application threads were stopped: 0.0028594 seconds, Stopping threads took: 0.0000194 seconds
+69.264: [GC (Allocation Failure)  117345K->18561K(465920K), 0.0026572 secs]
+69.267: Total time for which application threads were stopped: 0.0028209 seconds, Stopping threads took: 0.0000195 seconds
+69.505: [GC (Allocation Failure)  137345K->19353K(468480K), 0.0028110 secs]
+69.508: Total time for which application threads were stopped: 0.0029982 seconds, Stopping threads took: 0.0000291 seconds
+69.748: [GC (Allocation Failure)  138137K->14722K(459776K), 0.0005325 secs]
+69.749: Total time for which application threads were stopped: 0.0006609 seconds, Stopping threads took: 0.0000274 seconds
+69.981: [GC (Allocation Failure)  130946K->19353K(463872K), 0.0029078 secs]
+69.984: Total time for which application threads were stopped: 0.0030797 seconds, Stopping threads took: 0.0000276 seconds
+70.209: [GC (Allocation Failure)  133017K->19017K(458752K), 0.0026676 secs]
+70.212: Total time for which application threads were stopped: 0.0028288 seconds, Stopping threads took: 0.0000184 seconds
+70.434: [GC (Allocation Failure)  130121K->19081K(456192K), 0.0025331 secs]
+70.436: Total time for which application threads were stopped: 0.0026915 seconds, Stopping threads took: 0.0000192 seconds
+70.656: [GC (Allocation Failure)  127625K->19401K(479232K), 0.0027876 secs]
+70.659: Total time for which application threads were stopped: 0.0029524 seconds, Stopping threads took: 0.0000199 seconds
+70.917: [GC (Allocation Failure)  149961K->19385K(480768K), 0.0028901 secs]
+70.920: Total time for which application threads were stopped: 0.0030766 seconds, Stopping threads took: 0.0000188 seconds
+71.183: [GC (Allocation Failure)  149945K->18946K(475136K), 0.0019899 secs]
+71.185: Total time for which application threads were stopped: 0.0021626 seconds, Stopping threads took: 0.0000200 seconds
+71.446: [GC (Allocation Failure)  146434K->19145K(472576K), 0.0027883 secs]
+71.449: Total time for which application threads were stopped: 0.0029349 seconds, Stopping threads took: 0.0000167 seconds
+71.700: [GC (Allocation Failure)  143561K->16930K(467456K), 0.0012075 secs]
+71.701: Total time for which application threads were stopped: 0.0013728 seconds, Stopping threads took: 0.0000275 seconds
+71.941: [GC (Allocation Failure)  138786K->19017K(466944K), 0.0027177 secs]
+71.944: Total time for which application threads were stopped: 0.0028810 seconds, Stopping threads took: 0.0000193 seconds
+72.181: [GC (Allocation Failure)  138313K->19145K(464896K), 0.0025461 secs]
+72.184: Total time for which application threads were stopped: 0.0026993 seconds, Stopping threads took: 0.0000258 seconds
+72.415: [GC (Allocation Failure)  135881K->19065K(461824K), 0.0028797 secs]
+72.418: Total time for which application threads were stopped: 0.0030557 seconds, Stopping threads took: 0.0000204 seconds
+72.650: [GC (Allocation Failure)  133241K->18530K(458752K), 0.0017196 secs]
+72.652: Total time for which application threads were stopped: 0.0018825 seconds, Stopping threads took: 0.0000197 seconds
+72.878: [GC (Allocation Failure)  130146K->19417K(457216K), 0.0028386 secs]
+72.881: Total time for which application threads were stopped: 0.0030107 seconds, Stopping threads took: 0.0000271 seconds
+73.094: [GC (Allocation Failure)  128473K->19161K(454656K), 0.0024527 secs]
+73.097: Total time for which application threads were stopped: 0.0026165 seconds, Stopping threads took: 0.0000199 seconds
+73.315: [GC (Allocation Failure)  126169K->14658K(448512K), 0.0007363 secs]
+73.316: Total time for which application threads were stopped: 0.0008495 seconds, Stopping threads took: 0.0000186 seconds
+73.523: [GC (Allocation Failure)  119618K->19049K(450560K), 0.0024244 secs]
+73.525: Total time for which application threads were stopped: 0.0025957 seconds, Stopping threads took: 0.0000299 seconds
+73.731: [GC (Allocation Failure)  121961K->19433K(449024K), 0.0029268 secs]
+73.734: Total time for which application threads were stopped: 0.0031035 seconds, Stopping threads took: 0.0000276 seconds
+73.939: [GC (Allocation Failure)  120297K->19145K(446464K), 0.0024031 secs]
+73.941: Total time for which application threads were stopped: 0.0025679 seconds, Stopping threads took: 0.0000200 seconds
+74.138: [GC (Allocation Failure)  117961K->19209K(466944K), 0.0026744 secs]
+74.141: Total time for which application threads were stopped: 0.0028385 seconds, Stopping threads took: 0.0000188 seconds
+74.378: [GC (Allocation Failure)  137993K->19337K(471040K), 0.0026399 secs]
+74.380: Total time for which application threads were stopped: 0.0028277 seconds, Stopping threads took: 0.0000284 seconds
+74.625: [GC (Allocation Failure)  142217K->16930K(465920K), 0.0010853 secs]
+74.626: Total time for which application threads were stopped: 0.0012206 seconds, Stopping threads took: 0.0000253 seconds
+74.864: [GC (Allocation Failure)  137250K->19010K(465408K), 0.0020972 secs]
+74.866: Total time for which application threads were stopped: 0.0022591 seconds, Stopping threads took: 0.0000243 seconds
+75.100: [GC (Allocation Failure)  136770K->18978K(462848K), 0.0020121 secs]
+75.102: Total time for which application threads were stopped: 0.0021624 seconds, Stopping threads took: 0.0000196 seconds
+75.338: [GC (Allocation Failure)  134178K->17250K(458752K), 0.0015024 secs]
+75.340: Total time for which application threads were stopped: 0.0016421 seconds, Stopping threads took: 0.0000190 seconds
+75.571: [GC (Allocation Failure)  129890K->19369K(458240K), 0.0028635 secs]
+75.574: Total time for which application threads were stopped: 0.0030318 seconds, Stopping threads took: 0.0000200 seconds
+75.796: [GC (Allocation Failure)  129449K->19273K(456192K), 0.0031388 secs]
+75.800: Total time for which application threads were stopped: 0.0032924 seconds, Stopping threads took: 0.0000167 seconds
+76.018: [GC (Allocation Failure)  127305K->15650K(450560K), 0.0009461 secs]
+76.019: Total time for which application threads were stopped: 0.0010620 seconds, Stopping threads took: 0.0000200 seconds
+76.233: [GC (Allocation Failure)  121634K->19225K(452096K), 0.0026753 secs]
+76.236: Total time for which application threads were stopped: 0.0028511 seconds, Stopping threads took: 0.0000281 seconds
+76.445: [GC (Allocation Failure)  123161K->19161K(449536K), 0.0025663 secs]
+76.448: Total time for which application threads were stopped: 0.0027533 seconds, Stopping threads took: 0.0000290 seconds
+76.656: [GC (Allocation Failure)  121049K->19481K(452096K), 0.0028170 secs]
+76.659: Total time for which application threads were stopped: 0.0029984 seconds, Stopping threads took: 0.0000194 seconds
+76.864: [GC (Allocation Failure)  121369K->17410K(445952K), 0.0013914 secs]
+76.866: Total time for which application threads were stopped: 0.0015321 seconds, Stopping threads took: 0.0000196 seconds
+77.069: [GC (Allocation Failure)  117250K->18850K(445440K), 0.0020713 secs]
+77.071: Total time for which application threads were stopped: 0.0022253 seconds, Stopping threads took: 0.0000192 seconds
+77.268: [GC (Allocation Failure)  116642K->18818K(443392K), 0.0020159 secs]
+77.270: Total time for which application threads were stopped: 0.0021834 seconds, Stopping threads took: 0.0000278 seconds
+77.466: [GC (Allocation Failure)  114562K->17218K(441856K), 0.0015322 secs]
+77.467: Total time for which application threads were stopped: 0.0016742 seconds, Stopping threads took: 0.0000196 seconds
+77.661: [GC (Allocation Failure)  111426K->19545K(440832K), 0.0028108 secs]
+77.664: Total time for which application threads were stopped: 0.0029792 seconds, Stopping threads took: 0.0000198 seconds
+77.848: [GC (Allocation Failure)  112217K->19049K(442368K), 0.0023752 secs]
+77.851: Total time for which application threads were stopped: 0.0025391 seconds, Stopping threads took: 0.0000197 seconds
+78.032: [GC (Allocation Failure)  111721K->19193K(442368K), 0.0024222 secs]
+78.034: Total time for which application threads were stopped: 0.0025889 seconds, Stopping threads took: 0.0000278 seconds
+78.226: [GC (Allocation Failure)  111865K->17314K(437248K), 0.0014983 secs]
+78.227: Total time for which application threads were stopped: 0.0016553 seconds, Stopping threads took: 0.0000184 seconds
+78.410: [GC (Allocation Failure)  108450K->19225K(457728K), 0.0027568 secs]
+78.412: Total time for which application threads were stopped: 0.0029152 seconds, Stopping threads took: 0.0000272 seconds
+78.624: [GC (Allocation Failure)  127257K->18953K(459264K), 0.0022054 secs]
+78.627: Total time for which application threads were stopped: 0.0023618 seconds, Stopping threads took: 0.0000260 seconds
+78.849: [GC (Allocation Failure)  128521K->19385K(459264K), 0.0028003 secs]
+78.851: Total time for which application threads were stopped: 0.0029514 seconds, Stopping threads took: 0.0000184 seconds
+79.071: [GC (Allocation Failure)  128953K->19257K(481280K), 0.0028241 secs]
+79.074: Total time for which application threads were stopped: 0.0030090 seconds, Stopping threads took: 0.0000198 seconds
+79.339: [GC (Allocation Failure)  150841K->18338K(481280K), 0.0017523 secs]
+79.341: Total time for which application threads were stopped: 0.0019111 seconds, Stopping threads took: 0.0000274 seconds
+79.607: [GC (Allocation Failure)  149922K->19481K(507904K), 0.0029579 secs]
+79.610: Total time for which application threads were stopped: 0.0040286 seconds, Stopping threads took: 0.0000270 seconds
+79.932: [GC (Allocation Failure)  177689K->15490K(498176K), 0.0008615 secs]
+79.933: Total time for which application threads were stopped: 0.0009852 seconds, Stopping threads took: 0.0000258 seconds
+80.249: [GC (Allocation Failure)  169602K->19369K(498176K), 0.0029119 secs]
+80.252: Total time for which application threads were stopped: 0.0030773 seconds, Stopping threads took: 0.0000199 seconds
+80.547: [GC (Allocation Failure)  169385K->19401K(494592K), 0.0029250 secs]
+80.550: Total time for which application threads were stopped: 0.0030886 seconds, Stopping threads took: 0.0000271 seconds
+80.852: [GC (Allocation Failure)  165833K->15618K(487424K), 0.0007869 secs]
+80.853: Total time for which application threads were stopped: 0.0009027 seconds, Stopping threads took: 0.0000194 seconds
+81.135: [GC (Allocation Failure)  158466K->19017K(486912K), 0.0022232 secs]
+81.138: Total time for which application threads were stopped: 0.0023857 seconds, Stopping threads took: 0.0000193 seconds
+81.416: [GC (Allocation Failure)  158281K->19209K(483840K), 0.0024419 secs]
+81.419: Total time for which application threads were stopped: 0.0026105 seconds, Stopping threads took: 0.0000194 seconds
+81.693: [GC (Allocation Failure)  154889K->19081K(480256K), 0.0025891 secs]
+81.695: Total time for which application threads were stopped: 0.0027535 seconds, Stopping threads took: 0.0000195 seconds
+81.963: [GC (Allocation Failure)  151689K->17122K(475136K), 0.0015360 secs]
+81.964: Total time for which application threads were stopped: 0.0016866 seconds, Stopping threads took: 0.0000194 seconds
+82.227: [GC (Allocation Failure)  146658K->19161K(474112K), 0.0023891 secs]
+82.229: Total time for which application threads were stopped: 0.0025559 seconds, Stopping threads took: 0.0000199 seconds
+82.480: [GC (Allocation Failure)  145625K->18210K(470528K), 0.0016828 secs]
+82.482: Total time for which application threads were stopped: 0.0018306 seconds, Stopping threads took: 0.0000192 seconds
+82.730: [GC (Allocation Failure)  141602K->19305K(468992K), 0.0027883 secs]
+82.733: Total time for which application threads were stopped: 0.0029561 seconds, Stopping threads took: 0.0000195 seconds
+82.980: [GC (Allocation Failure)  140137K->19017K(465920K), 0.0022604 secs]
+82.982: Total time for which application threads were stopped: 0.0024437 seconds, Stopping threads took: 0.0000273 seconds
+83.223: [GC (Allocation Failure)  137289K->19145K(463360K), 0.0026457 secs]
+83.225: Total time for which application threads were stopped: 0.0028285 seconds, Stopping threads took: 0.0000282 seconds
+83.457: [GC (Allocation Failure)  134857K->18921K(460800K), 0.0021137 secs]
+83.459: Total time for which application threads were stopped: 0.0022777 seconds, Stopping threads took: 0.0000203 seconds
+83.685: [GC (Allocation Failure)  132073K->19177K(458752K), 0.0024615 secs]
+83.687: Total time for which application threads were stopped: 0.0026167 seconds, Stopping threads took: 0.0000196 seconds
+83.912: [GC (Allocation Failure)  129769K->15842K(453120K), 0.0009394 secs]
+83.913: Total time for which application threads were stopped: 0.0010589 seconds, Stopping threads took: 0.0000190 seconds
+84.127: [GC (Allocation Failure)  124386K->19449K(454656K), 0.0037088 secs]
+84.131: Total time for which application threads were stopped: 0.0038856 seconds, Stopping threads took: 0.0000272 seconds
+84.348: [GC (Allocation Failure)  125945K->15586K(448512K), 0.0011626 secs]
+84.349: Total time for which application threads were stopped: 0.0012947 seconds, Stopping threads took: 0.0000350 seconds
+84.553: [GC (Allocation Failure)  120034K->19081K(450048K), 0.0022683 secs]
+84.555: Total time for which application threads were stopped: 0.0024219 seconds, Stopping threads took: 0.0000189 seconds
+84.765: [GC (Allocation Failure)  121481K->19449K(448512K), 0.0028847 secs]
+84.768: Total time for which application threads were stopped: 0.0030487 seconds, Stopping threads took: 0.0000271 seconds
+84.978: [GC (Allocation Failure)  119801K->19145K(445952K), 0.0025717 secs]
+84.981: Total time for which application threads were stopped: 0.0027353 seconds, Stopping threads took: 0.0000195 seconds
+85.179: [GC (Allocation Failure)  117449K->19145K(450560K), 0.0023470 secs]
+85.181: Total time for which application threads were stopped: 0.0025053 seconds, Stopping threads took: 0.0000199 seconds
+85.388: [GC (Allocation Failure)  121545K->19529K(452608K), 0.0027393 secs]
+85.391: Total time for which application threads were stopped: 0.0029030 seconds, Stopping threads took: 0.0000272 seconds
+85.596: [GC (Allocation Failure)  121929K->17954K(446976K), 0.0017434 secs]
+85.597: Total time for which application threads were stopped: 0.0019070 seconds, Stopping threads took: 0.0000196 seconds
+85.804: [GC (Allocation Failure)  118306K->19017K(469504K), 0.0023693 secs]
+85.807: Total time for which application threads were stopped: 0.0025265 seconds, Stopping threads took: 0.0000174 seconds
+86.049: [GC (Allocation Failure)  138313K->19145K(471552K), 0.0027041 secs]
+86.052: Total time for which application threads were stopped: 0.0029004 seconds, Stopping threads took: 0.0000268 seconds
+86.298: [GC (Allocation Failure)  140489K->19529K(471040K), 0.0029063 secs]
+86.301: Total time for which application threads were stopped: 0.0030793 seconds, Stopping threads took: 0.0000272 seconds
+86.545: [GC (Allocation Failure)  140873K->19289K(495104K), 0.0026016 secs]
+86.548: Total time for which application threads were stopped: 0.0027655 seconds, Stopping threads took: 0.0000197 seconds
+86.841: [GC (Allocation Failure)  165209K->18850K(489984K), 0.0021462 secs]
+86.843: Total time for which application threads were stopped: 0.0023187 seconds, Stopping threads took: 0.0000194 seconds
+87.127: [GC (Allocation Failure)  161186K->19337K(486912K), 0.0028346 secs]
+87.130: Total time for which application threads were stopped: 0.0030184 seconds, Stopping threads took: 0.0000219 seconds
+87.407: [GC (Allocation Failure)  158089K->19529K(483328K), 0.0029680 secs]
+87.410: Total time for which application threads were stopped: 0.0031319 seconds, Stopping threads took: 0.0000183 seconds
+87.681: [GC (Allocation Failure)  154697K->19261K(478720K), 0.0027427 secs]
+87.683: Total time for which application threads were stopped: 0.0029128 seconds, Stopping threads took: 0.0000260 seconds
+87.946: [GC (Allocation Failure)  151357K->20406K(476672K), 0.0021295 secs]
+87.948: Total time for which application threads were stopped: 0.0022902 seconds, Stopping threads took: 0.0000188 seconds
+88.210: [GC (Allocation Failure)  149430K->20805K(474112K), 0.0026730 secs]
+88.213: Total time for which application threads were stopped: 0.0028426 seconds, Stopping threads took: 0.0000253 seconds
+88.459: [GC (Allocation Failure)  146757K->20446K(470528K), 0.0021712 secs]
+88.461: Total time for which application threads were stopped: 0.0023303 seconds, Stopping threads took: 0.0000208 seconds
+88.716: [GC (Allocation Failure)  143326K->20809K(466432K), 0.0029429 secs]
+88.719: Total time for which application threads were stopped: 0.0031017 seconds, Stopping threads took: 0.0000199 seconds
+88.966: [GC (Allocation Failure)  141129K->22649K(465408K), 0.0026562 secs]
+88.969: Total time for which application threads were stopped: 0.0028060 seconds, Stopping threads took: 0.0000166 seconds
+89.205: [GC (Allocation Failure)  140409K->22633K(462848K), 0.0023494 secs]
+89.207: Total time for which application threads were stopped: 0.0025132 seconds, Stopping threads took: 0.0000265 seconds
+89.434: [GC (Allocation Failure)  137833K->23050K(460800K), 0.0030087 secs]
+89.437: Total time for which application threads were stopped: 0.0031635 seconds, Stopping threads took: 0.0000199 seconds
+89.665: [GC (Allocation Failure)  135690K->22545K(456192K), 0.0023717 secs]
+89.668: Total time for which application threads were stopped: 0.0025352 seconds, Stopping threads took: 0.0000190 seconds
+89.891: [GC (Allocation Failure)  132625K->24418K(473088K), 0.0028343 secs]
+89.894: Total time for which application threads were stopped: 0.0029909 seconds, Stopping threads took: 0.0000193 seconds
+90.141: [GC (Allocation Failure)  148834K->23889K(481792K), 0.0023559 secs]
+90.144: Total time for which application threads were stopped: 0.0025203 seconds, Stopping threads took: 0.0000281 seconds
+90.410: [GC (Allocation Failure)  156497K->21259K(474624K), 0.0011612 secs]
+90.411: Total time for which application threads were stopped: 0.0012911 seconds, Stopping threads took: 0.0000199 seconds
+90.670: [GC (Allocation Failure)  150795K->23985K(474112K), 0.0024778 secs]
+90.672: Total time for which application threads were stopped: 0.0026524 seconds, Stopping threads took: 0.0000270 seconds
+90.928: [GC (Allocation Failure)  150449K->22347K(469504K), 0.0015428 secs]
+90.929: Total time for which application threads were stopped: 0.0017055 seconds, Stopping threads took: 0.0000194 seconds
+91.174: [GC (Allocation Failure)  145739K->24145K(468992K), 0.0024232 secs]
+91.177: Total time for which application threads were stopped: 0.0025747 seconds, Stopping threads took: 0.0000273 seconds
+91.422: [GC (Allocation Failure)  144977K->24434K(466432K), 0.0031134 secs]
+91.425: Total time for which application threads were stopped: 0.0032695 seconds, Stopping threads took: 0.0000163 seconds
+91.667: [GC (Allocation Failure)  142706K->23889K(461312K), 0.0024090 secs]
+91.669: Total time for which application threads were stopped: 0.0025781 seconds, Stopping threads took: 0.0000262 seconds
+91.899: [GC (Allocation Failure)  139601K->26242K(461312K), 0.0028630 secs]
+91.902: Total time for which application threads were stopped: 0.0030260 seconds, Stopping threads took: 0.0000185 seconds
+92.130: [GC (Allocation Failure)  139394K->25873K(458240K), 0.0024567 secs]
+92.132: Total time for which application threads were stopped: 0.0026221 seconds, Stopping threads took: 0.0000198 seconds
+92.358: [GC (Allocation Failure)  136465K->21931K(452608K), 0.0009982 secs]
+92.359: Total time for which application threads were stopped: 0.0011321 seconds, Stopping threads took: 0.0000194 seconds
+92.578: [GC (Allocation Failure)  130475K->26194K(454656K), 0.0027536 secs]
+92.581: Total time for which application threads were stopped: 0.0029105 seconds, Stopping threads took: 0.0000198 seconds
+92.800: [GC (Allocation Failure)  132690K->21579K(448000K), 0.0007038 secs]
+92.801: Total time for which application threads were stopped: 0.0008006 seconds, Stopping threads took: 0.0000166 seconds
+93.004: [GC (Allocation Failure)  126027K->25745K(450560K), 0.0022126 secs]
+93.006: Total time for which application threads were stopped: 0.0023640 seconds, Stopping threads took: 0.0000198 seconds
+93.217: [GC (Allocation Failure)  128145K->26162K(448512K), 0.0026850 secs]
+93.220: Total time for which application threads were stopped: 0.0028377 seconds, Stopping threads took: 0.0000188 seconds
+93.427: [GC (Allocation Failure)  126514K->25809K(446464K), 0.0023173 secs]
+93.429: Total time for which application threads were stopped: 0.0025057 seconds, Stopping threads took: 0.0000196 seconds
+93.627: [GC (Allocation Failure)  124113K->25809K(443904K), 0.0024177 secs]
+93.630: Total time for which application threads were stopped: 0.0025841 seconds, Stopping threads took: 0.0000306 seconds
+93.822: [GC (Allocation Failure)  122065K->26322K(446464K), 0.0026388 secs]
+93.825: Total time for which application threads were stopped: 0.0028061 seconds, Stopping threads took: 0.0000192 seconds
+94.021: [GC (Allocation Failure)  122578K->26113K(446464K), 0.0026200 secs]
+94.024: Total time for which application threads were stopped: 0.0027778 seconds, Stopping threads took: 0.0000197 seconds
+94.216: [GC (Allocation Failure)  122369K->25985K(465920K), 0.0026120 secs]
+94.219: Total time for which application threads were stopped: 0.0028025 seconds, Stopping threads took: 0.0000279 seconds
+94.450: [GC (Allocation Failure)  141697K->25841K(465920K), 0.0025359 secs]
+94.452: Total time for which application threads were stopped: 0.0027161 seconds, Stopping threads took: 0.0000267 seconds
+94.689: [GC (Allocation Failure)  141553K->25515K(488960K), 0.0019706 secs]
+94.691: Total time for which application threads were stopped: 0.0021465 seconds, Stopping threads took: 0.0000256 seconds
+94.977: [GC (Allocation Failure)  164779K->25873K(483328K), 0.0027110 secs]
+94.980: Total time for which application threads were stopped: 0.0028800 seconds, Stopping threads took: 0.0000262 seconds
+95.250: [GC (Allocation Failure)  161553K->25713K(480256K), 0.0024024 secs]
+95.253: Total time for which application threads were stopped: 0.0025667 seconds, Stopping threads took: 0.0000273 seconds
+95.519: [GC (Allocation Failure)  158321K->22795K(474112K), 0.0013316 secs]
+95.521: Total time for which application threads were stopped: 0.0014652 seconds, Stopping threads took: 0.0000206 seconds
+95.779: [GC (Allocation Failure)  152331K->25809K(474112K), 0.0027963 secs]
+95.781: Total time for which application threads were stopped: 0.0029965 seconds, Stopping threads took: 0.0000252 seconds
+96.036: [GC (Allocation Failure)  152273K->23883K(468992K), 0.0015507 secs]
+96.038: Total time for which application threads were stopped: 0.0017142 seconds, Stopping threads took: 0.0000204 seconds
+96.289: [GC (Allocation Failure)  147275K->25985K(468992K), 0.0023978 secs]
+96.291: Total time for which application threads were stopped: 0.0025776 seconds, Stopping threads took: 0.0000266 seconds
+96.532: [GC (Allocation Failure)  146817K->26306K(466432K), 0.0030298 secs]
+96.535: Total time for which application threads were stopped: 0.0031865 seconds, Stopping threads took: 0.0000203 seconds
+96.774: [GC (Allocation Failure)  144578K->25713K(462336K), 0.0022771 secs]
+96.776: Total time for which application threads were stopped: 0.0024511 seconds, Stopping threads took: 0.0000197 seconds
+97.005: [GC (Allocation Failure)  141425K->26994K(461312K), 0.0028237 secs]
+97.008: Total time for which application threads were stopped: 0.0029849 seconds, Stopping threads took: 0.0000186 seconds
+97.233: [GC (Allocation Failure)  140146K->26641K(458240K), 0.0022530 secs]
+97.236: Total time for which application threads were stopped: 0.0024254 seconds, Stopping threads took: 0.0000279 seconds
+97.463: [GC (Allocation Failure)  137233K->22443K(452096K), 0.0008060 secs]
+97.464: Total time for which application threads were stopped: 0.0009196 seconds, Stopping threads took: 0.0000190 seconds
+97.676: [GC (Allocation Failure)  130974K->26930K(454656K), 0.0028250 secs]
+97.679: Total time for which application threads were stopped: 0.0029907 seconds, Stopping threads took: 0.0000201 seconds
+97.895: [GC (Allocation Failure)  133426K->27122K(452608K), 0.0029954 secs]
+97.898: Total time for which application threads were stopped: 0.0031574 seconds, Stopping threads took: 0.0000275 seconds
+98.102: [GC (Allocation Failure)  131570K->26513K(450048K), 0.0023286 secs]
+98.104: Total time for which application threads were stopped: 0.0024808 seconds, Stopping threads took: 0.0000194 seconds
+98.308: [GC (Allocation Failure)  128913K->26898K(453632K), 0.0026373 secs]
+98.311: Total time for which application threads were stopped: 0.0028093 seconds, Stopping threads took: 0.0000271 seconds
+98.520: [GC (Allocation Failure)  130322K->26833K(473088K), 0.0032455 secs]
+98.523: Total time for which application threads were stopped: 0.0034040 seconds, Stopping threads took: 0.0000269 seconds
+98.770: [GC (Allocation Failure)  149713K->23883K(465408K), 0.0010698 secs]
+98.771: Total time for which application threads were stopped: 0.0012021 seconds, Stopping threads took: 0.0000263 seconds
+99.010: [GC (Allocation Failure)  144203K->25931K(464896K), 0.0020628 secs]
+99.012: Total time for which application threads were stopped: 0.0022226 seconds, Stopping threads took: 0.0000194 seconds
+99.250: [GC (Allocation Failure)  143691K->26155K(462336K), 0.0019321 secs]
+99.252: Total time for which application threads were stopped: 0.0020849 seconds, Stopping threads took: 0.0000194 seconds
+99.483: [GC (Allocation Failure)  141355K->24491K(459264K), 0.0013451 secs]
+99.484: Total time for which application threads were stopped: 0.0014889 seconds, Stopping threads took: 0.0000185 seconds
+99.720: [GC (Allocation Failure)  137131K->26946K(458240K), 0.0025425 secs]
+99.723: Total time for which application threads were stopped: 0.0027047 seconds, Stopping threads took: 0.0000270 seconds
+99.940: [GC (Allocation Failure)  137026K->26849K(456192K), 0.0026421 secs]
+99.943: Total time for which application threads were stopped: 0.0028197 seconds, Stopping threads took: 0.0000198 seconds
+100.163: [GC (Allocation Failure)  134881K->22859K(450048K), 0.0008162 secs]
+100.164: Total time for which application threads were stopped: 0.0009358 seconds, Stopping threads took: 0.0000256 seconds
+100.373: [GC (Allocation Failure)  128843K->26785K(452096K), 0.0025999 secs]
+100.375: Total time for which application threads were stopped: 0.0027622 seconds, Stopping threads took: 0.0000195 seconds
+100.585: [GC (Allocation Failure)  130721K->26737K(449536K), 0.0025675 secs]
+100.587: Total time for which application threads were stopped: 0.0027432 seconds, Stopping threads took: 0.0000193 seconds
+100.797: [GC (Allocation Failure)  128625K->27042K(452096K), 0.0031972 secs]
+100.800: Total time for which application threads were stopped: 0.0033368 seconds, Stopping threads took: 0.0000215 seconds
+101.002: [GC (Allocation Failure)  128930K->24651K(445440K), 0.0014025 secs]
+101.004: Total time for which application threads were stopped: 0.0015701 seconds, Stopping threads took: 0.0000196 seconds
+101.201: [GC (Allocation Failure)  124491K->26027K(444928K), 0.0019581 secs]
+101.203: Total time for which application threads were stopped: 0.0021299 seconds, Stopping threads took: 0.0000195 seconds
+101.398: [GC (Allocation Failure)  123819K->25931K(442880K), 0.0018307 secs]
+101.400: Total time for which application threads were stopped: 0.0019887 seconds, Stopping threads took: 0.0000196 seconds
+101.593: [GC (Allocation Failure)  121675K->24331K(442368K), 0.0013199 secs]
+101.594: Total time for which application threads were stopped: 0.0014654 seconds, Stopping threads took: 0.0000271 seconds
+101.786: [GC (Allocation Failure)  118539K->27010K(443904K), 0.0032860 secs]
+101.790: Total time for which application threads were stopped: 0.0034899 seconds, Stopping threads took: 0.0000275 seconds
+101.978: [GC (Allocation Failure)  121218K->26737K(462848K), 0.0025916 secs]
+101.981: Total time for which application threads were stopped: 0.0027594 seconds, Stopping threads took: 0.0000196 seconds
+102.208: [GC (Allocation Failure)  139889K->26881K(462848K), 0.0027938 secs]
+102.211: Total time for which application threads were stopped: 0.0029921 seconds, Stopping threads took: 0.0000272 seconds
+102.439: [GC (Allocation Failure)  140033K->26545K(485888K), 0.0025182 secs]
+102.441: Total time for which application threads were stopped: 0.0026955 seconds, Stopping threads took: 0.0000195 seconds
+102.719: [GC (Allocation Failure)  162737K->26251K(480256K), 0.0019692 secs]
+102.721: Total time for which application threads were stopped: 0.0021115 seconds, Stopping threads took: 0.0000177 seconds
+102.993: [GC (Allocation Failure)  159371K->23371K(476160K), 0.0009410 secs]
+102.994: Total time for which application threads were stopped: 0.0011735 seconds, Stopping threads took: 0.0000183 seconds
+103.257: [GC (Allocation Failure)  153419K->26641K(474624K), 0.0024217 secs]
+103.260: Total time for which application threads were stopped: 0.0025878 seconds, Stopping threads took: 0.0000199 seconds
+103.511: [GC (Allocation Failure)  153617K->25163K(470016K), 0.0016043 secs]
+103.512: Total time for which application threads were stopped: 0.0017625 seconds, Stopping threads took: 0.0000191 seconds
+103.763: [GC (Allocation Failure)  149067K->26849K(469504K), 0.0025338 secs]
+103.766: Total time for which application threads were stopped: 0.0026986 seconds, Stopping threads took: 0.0000274 seconds
+104.015: [GC (Allocation Failure)  148193K->26641K(466432K), 0.0022993 secs]
+104.017: Total time for which application threads were stopped: 0.0024953 seconds, Stopping threads took: 0.0000273 seconds
+104.260: [GC (Allocation Failure)  145425K->26769K(464384K), 0.0024723 secs]
+104.262: Total time for which application threads were stopped: 0.0026338 seconds, Stopping threads took: 0.0000270 seconds
+104.493: [GC (Allocation Failure)  142993K->26585K(460800K), 0.0023920 secs]
+104.495: Total time for which application threads were stopped: 0.0025928 seconds, Stopping threads took: 0.0000220 seconds
+104.729: [GC (Allocation Failure)  140249K->27193K(459264K), 0.0025543 secs]
+104.732: Total time for which application threads were stopped: 0.0027100 seconds, Stopping threads took: 0.0000162 seconds
+104.959: [GC (Allocation Failure)  138297K->25459K(454656K), 0.0014560 secs]
+104.961: Total time for which application threads were stopped: 0.0016012 seconds, Stopping threads took: 0.0000196 seconds
+105.178: [GC (Allocation Failure)  134003K->27065K(454144K), 0.0023966 secs]
+105.180: Total time for which application threads were stopped: 0.0025492 seconds, Stopping threads took: 0.0000189 seconds
+105.393: [GC (Allocation Failure)  133561K->25203K(450560K), 0.0013958 secs]
+105.394: Total time for which application threads were stopped: 0.0015496 seconds, Stopping threads took: 0.0000192 seconds
+105.607: [GC (Allocation Failure)  129651K->27225K(450560K), 0.0027779 secs]
+105.609: Total time for which application threads were stopped: 0.0029348 seconds, Stopping threads took: 0.0000196 seconds
+105.823: [GC (Allocation Failure)  129625K->27065K(448000K), 0.0024690 secs]
+105.826: Total time for which application threads were stopped: 0.0026409 seconds, Stopping threads took: 0.0000270 seconds
+106.032: [GC (Allocation Failure)  127417K->27257K(446464K), 0.0028409 secs]
+106.034: Total time for which application threads were stopped: 0.0030069 seconds, Stopping threads took: 0.0000200 seconds
+106.233: [GC (Allocation Failure)  125561K->27225K(448000K), 0.0027877 secs]
+106.236: Total time for which application threads were stopped: 0.0029430 seconds, Stopping threads took: 0.0000195 seconds
+106.441: [GC (Allocation Failure)  128089K->23995K(442880K), 0.0009835 secs]
+106.442: Total time for which application threads were stopped: 0.0011201 seconds, Stopping threads took: 0.0000192 seconds
+106.644: [GC (Allocation Failure)  122811K->24635K(444928K), 0.0009886 secs]
+106.645: Total time for which application threads were stopped: 0.0011146 seconds, Stopping threads took: 0.0000189 seconds
+106.839: [GC (Allocation Failure)  121403K->23771K(438272K), 0.0007110 secs]
+106.840: Total time for which application threads were stopped: 0.0008439 seconds, Stopping threads took: 0.0000260 seconds
+107.033: [GC (Allocation Failure)  118491K->28050K(442880K), 0.0026271 secs]
+107.036: Total time for which application threads were stopped: 0.0028142 seconds, Stopping threads took: 0.0000194 seconds
+107.223: [GC (Allocation Failure)  121234K->28210K(439808K), 0.0028172 secs]
+107.226: Total time for which application threads were stopped: 0.0029956 seconds, Stopping threads took: 0.0000327 seconds
+107.411: [GC (Allocation Failure)  119858K->27739K(439296K), 0.0020686 secs]
+107.413: Total time for which application threads were stopped: 0.0022570 seconds, Stopping threads took: 0.0000280 seconds
+107.598: [GC (Allocation Failure)  117851K->28066K(440832K), 0.0027681 secs]
+107.601: Total time for which application threads were stopped: 0.0029516 seconds, Stopping threads took: 0.0000294 seconds
+107.779: [GC (Allocation Failure)  118178K->28002K(459264K), 0.0031235 secs]
+107.782: Total time for which application threads were stopped: 0.0032946 seconds, Stopping threads took: 0.0000249 seconds
+108.006: [GC (Allocation Failure)  136546K->24059K(459264K), 0.0008854 secs]
+108.007: Total time for which application threads were stopped: 0.0010047 seconds, Stopping threads took: 0.0000186 seconds
+108.221: [GC (Allocation Failure)  132603K->28114K(481280K), 0.0026842 secs]
+108.224: Total time for which application threads were stopped: 0.0028453 seconds, Stopping threads took: 0.0000198 seconds
+108.489: [GC (Allocation Failure)  158674K->27131K(474624K), 0.0019067 secs]
+108.490: Total time for which application threads were stopped: 0.0020552 seconds, Stopping threads took: 0.0000182 seconds
+108.751: [GC (Allocation Failure)  154619K->27873K(472064K), 0.0028299 secs]
+108.753: Total time for which application threads were stopped: 0.0029937 seconds, Stopping threads took: 0.0000195 seconds
+109.002: [GC (Allocation Failure)  152289K->25083K(466944K), 0.0012095 secs]
+109.004: Total time for which application threads were stopped: 0.0013360 seconds, Stopping threads took: 0.0000190 seconds
+109.252: [GC (Allocation Failure)  146939K->27681K(467456K), 0.0023704 secs]
+109.254: Total time for which application threads were stopped: 0.0025348 seconds, Stopping threads took: 0.0000194 seconds
+109.492: [GC (Allocation Failure)  146977K->27841K(464384K), 0.0025696 secs]
+109.495: Total time for which application threads were stopped: 0.0027339 seconds, Stopping threads took: 0.0000195 seconds
+109.731: [GC (Allocation Failure)  144577K->27777K(461824K), 0.0023839 secs]
+109.733: Total time for which application threads were stopped: 0.0025608 seconds, Stopping threads took: 0.0000196 seconds
+109.965: [GC (Allocation Failure)  141953K->26587K(458240K), 0.0016659 secs]
+109.967: Total time for which application threads were stopped: 0.0018296 seconds, Stopping threads took: 0.0000196 seconds
+110.199: [GC (Allocation Failure)  138203K->28098K(457216K), 0.0033235 secs]
+110.202: Total time for which application threads were stopped: 0.0034801 seconds, Stopping threads took: 0.0000221 seconds
+110.415: [GC (Allocation Failure)  137154K->27970K(455168K), 0.0027237 secs]
+110.418: Total time for which application threads were stopped: 0.0029022 seconds, Stopping threads took: 0.0000280 seconds
+110.636: [GC (Allocation Failure)  134978K->28162K(457216K), 0.0027584 secs]
+110.639: Total time for which application threads were stopped: 0.0029561 seconds, Stopping threads took: 0.0000277 seconds
+110.852: [GC (Allocation Failure)  135682K->27857K(457728K), 0.0023072 secs]
+110.855: Total time for which application threads were stopped: 0.0024961 seconds, Stopping threads took: 0.0000200 seconds
+111.074: [GC (Allocation Failure)  135377K->28114K(479232K), 0.0028755 secs]
+111.077: Total time for which application threads were stopped: 0.0030375 seconds, Stopping threads took: 0.0000198 seconds
+111.334: [GC (Allocation Failure)  157138K->28034K(479232K), 0.0028549 secs]
+111.337: Total time for which application threads were stopped: 0.0030172 seconds, Stopping threads took: 0.0000181 seconds
+111.597: [GC (Allocation Failure)  157058K->24987K(471040K), 0.0012013 secs]
+111.598: Total time for which application threads were stopped: 0.0013387 seconds, Stopping threads took: 0.0000190 seconds
+111.851: [GC (Allocation Failure)  150936K->28018K(471040K), 0.0029774 secs]
+111.854: Total time for which application threads were stopped: 0.0031330 seconds, Stopping threads took: 0.0000197 seconds
+112.099: [GC (Allocation Failure)  150898K->27954K(468480K), 0.0025970 secs]
+112.102: Total time for which application threads were stopped: 0.0027683 seconds, Stopping threads took: 0.0000192 seconds
+112.342: [GC (Allocation Failure)  148274K->28178K(492544K), 0.0031236 secs]
+112.345: Total time for which application threads were stopped: 0.0032883 seconds, Stopping threads took: 0.0000194 seconds
+112.629: [GC (Allocation Failure)  172562K->27681K(488448K), 0.0022015 secs]
+112.631: Total time for which application threads were stopped: 0.0023705 seconds, Stopping threads took: 0.0000193 seconds
+112.914: [GC (Allocation Failure)  168481K->28002K(485376K), 0.0028312 secs]
+112.917: Total time for which application threads were stopped: 0.0030479 seconds, Stopping threads took: 0.0000270 seconds
+113.191: [GC (Allocation Failure)  165218K->28026K(482304K), 0.0024727 secs]
+113.194: Total time for which application threads were stopped: 0.0026602 seconds, Stopping threads took: 0.0000257 seconds
+113.456: [GC (Allocation Failure)  162170K->27769K(478720K), 0.0023956 secs]
+113.459: Total time for which application threads were stopped: 0.0025513 seconds, Stopping threads took: 0.0000196 seconds
+113.724: [GC (Allocation Failure)  158841K->24499K(472576K), 0.0010164 secs]
+113.725: Total time for which application threads were stopped: 0.0011538 seconds, Stopping threads took: 0.0000271 seconds
+113.974: [GC (Allocation Failure)  152499K->28234K(473088K), 0.0027219 secs]
+113.977: Total time for which application threads were stopped: 0.0029069 seconds, Stopping threads took: 0.0000185 seconds
+114.231: [GC (Allocation Failure)  153162K->28266K(470016K), 0.0029638 secs]
+114.234: Total time for which application threads were stopped: 0.0031478 seconds, Stopping threads took: 0.0000276 seconds
+114.471: [GC (Allocation Failure)  150122K->26419K(465920K), 0.0016819 secs]
+114.473: Total time for which application threads were stopped: 0.0018428 seconds, Stopping threads took: 0.0000200 seconds
+114.712: [GC (Allocation Failure)  145715K->27699K(464384K), 0.0019566 secs]
+114.714: Total time for which application threads were stopped: 0.0021098 seconds, Stopping threads took: 0.0000192 seconds
+114.947: [GC (Allocation Failure)  144435K->27123K(461312K), 0.0018422 secs]
+114.949: Total time for which application threads were stopped: 0.0019924 seconds, Stopping threads took: 0.0000193 seconds
+115.178: [GC (Allocation Failure)  141299K->24659K(456192K), 0.0010190 secs]
+115.179: Total time for which application threads were stopped: 0.0011957 seconds, Stopping threads took: 0.0000253 seconds
+115.399: [GC (Allocation Failure)  136275K->27897K(456704K), 0.0023220 secs]
+115.402: Total time for which application threads were stopped: 0.0024762 seconds, Stopping threads took: 0.0000190 seconds
+115.614: [GC (Allocation Failure)  136953K->27737K(454656K), 0.0023477 secs]
+115.616: Total time for which application threads were stopped: 0.0025123 seconds, Stopping threads took: 0.0000276 seconds
+115.833: [GC (Allocation Failure)  134745K->27994K(453120K), 0.0025512 secs]
+115.836: Total time for which application threads were stopped: 0.0027047 seconds, Stopping threads took: 0.0000251 seconds
+116.049: [GC (Allocation Failure)  132954K->25971K(449024K), 0.0013134 secs]
+116.050: Total time for which application threads were stopped: 0.0014464 seconds, Stopping threads took: 0.0000168 seconds
+116.253: [GC (Allocation Failure)  128883K->27865K(448512K), 0.0026199 secs]
+116.256: Total time for which application threads were stopped: 0.0027857 seconds, Stopping threads took: 0.0000200 seconds
+116.455: [GC (Allocation Failure)  128729K->28106K(446976K), 0.0027627 secs]
+116.458: Total time for which application threads were stopped: 0.0029296 seconds, Stopping threads took: 0.0000199 seconds
+116.657: [GC (Allocation Failure)  126922K->28218K(452608K), 0.0027843 secs]
+116.660: Total time for which application threads were stopped: 0.0029430 seconds, Stopping threads took: 0.0000192 seconds
+116.868: [GC (Allocation Failure)  131130K->28090K(468480K), 0.0026494 secs]
+116.871: Total time for which application threads were stopped: 0.0028465 seconds, Stopping threads took: 0.0000195 seconds
+117.110: [GC (Allocation Failure)  146874K->28170K(468480K), 0.0028756 secs]
+117.113: Total time for which application threads were stopped: 0.0030558 seconds, Stopping threads took: 0.0000187 seconds
+117.348: [GC (Allocation Failure)  146954K->23571K(459776K), 0.0007158 secs]
+117.349: Total time for which application threads were stopped: 0.0008424 seconds, Stopping threads took: 0.0000192 seconds
+117.579: [GC (Allocation Failure)  139795K->28138K(463872K), 0.0027799 secs]
+117.582: Total time for which application threads were stopped: 0.0029526 seconds, Stopping threads took: 0.0000271 seconds
+117.807: [GC (Allocation Failure)  141802K->27865K(458752K), 0.0026401 secs]
+117.810: Total time for which application threads were stopped: 0.0027850 seconds, Stopping threads took: 0.0000163 seconds
+118.026: [GC (Allocation Failure)  138969K->27865K(483328K), 0.0025841 secs]
+118.028: Total time for which application threads were stopped: 0.0027620 seconds, Stopping threads took: 0.0000197 seconds
+118.298: [GC (Allocation Failure)  160985K->26611K(476672K), 0.0017862 secs]
+118.299: Total time for which application threads were stopped: 0.0019534 seconds, Stopping threads took: 0.0000274 seconds
+118.562: [GC (Allocation Failure)  156659K->28058K(475136K), 0.0027806 secs]
+118.565: Total time for which application threads were stopped: 0.0029667 seconds, Stopping threads took: 0.0000207 seconds
+118.811: [GC (Allocation Failure)  155034K->27737K(471552K), 0.0024015 secs]
+118.814: Total time for which application threads were stopped: 0.0025866 seconds, Stopping threads took: 0.0000281 seconds
+119.063: [GC (Allocation Failure)  151641K->27705K(468992K), 0.0025244 secs]
+119.066: Total time for which application threads were stopped: 0.0026835 seconds, Stopping threads took: 0.0000188 seconds
+119.307: [GC (Allocation Failure)  149049K->28002K(466432K), 0.0026552 secs]
+119.310: Total time for which application threads were stopped: 0.0028143 seconds, Stopping threads took: 0.0000197 seconds
+119.545: [GC (Allocation Failure)  146786K->28258K(464384K), 0.0029334 secs]
+119.548: Total time for which application threads were stopped: 0.0030958 seconds, Stopping threads took: 0.0000210 seconds
+119.778: [GC (Allocation Failure)  144482K->28086K(467968K), 0.0033813 secs]
+119.782: Total time for which application threads were stopped: 0.0035302 seconds, Stopping threads took: 0.0000159 seconds
