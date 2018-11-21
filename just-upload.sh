@@ -3,4 +3,4 @@
 cd $(dirname "$0")
 
 git add . &&
-git commit -m "automated commit" && git push
+git commit -m "automated commit" && git pull && git push
