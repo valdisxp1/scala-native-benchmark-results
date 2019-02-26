@@ -1,0 +1,8 @@
+java.lang.ClassCastException: java.lang.Integer cannot be cast to brainfuck.Op
+	at scala.scalanative.runtime.package$.throwClassCast(Unknown Source)
+	at brainfuck.BrainfuckBenchmark$.run(Unknown Source)
+	at communitybench.Benchmark.loop(Unknown Source)
+	at communitybench.Benchmark.main(Unknown Source)
+	at <none>.main(Unknown Source)
+	at <none>.__libc_start_main(Unknown Source)
+	at <none>._start(Unknown Source)
